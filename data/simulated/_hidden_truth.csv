@@ -1,0 +1,13 @@
+event_id,event,entity,start,end,detail
+1,Provider update breaks game launches,Provider F,2026-05-12,2026-05-17,launch error rate ~14% vs <1%
+2,RTP false signal (variance),C-007,2026-07-03,2026-09-30,"very high volatility, realised RTP 89.0% vs 96.0%, inside 3-sigma bounds"
+2,RTP true deviation (wrong config),G-012,2026-06-15,2026-09-30,realised RTP ~92.1% vs 96.0% certified
+3,Certification bottleneck,State C,2025-10-01,2026-09-30,median approval 31 days vs 14-17
+4,Novelty effect,all new games,2025-10-01,2026-09-30,launch demand x2.4 decaying with a 10-day time constant
+5,Aggregator to direct switch,Provider H,2026-04-01,2026-09-30,p95 latency 430 -> 160 ms; fee 12%+3% -> 11%
+6,Duplicate catalogue entries,Provider H,2026-04-01,2026-09-30,30 old aggregator copies left live
+7,Intermittent rollback failures,Provider K,2026-07-02,2026-08-05,7 days with 8-15% failed rollbacks
+8,Free-spin promotion with hold-out,PR06 / B-031,2026-06-08,2026-07-05,true uplift +$4.5 GGR + 6 pts activity
+9,Compliance: live without approval,L-001|L-002|L-003,,,"Provider L games live in State B, approval pending"
+10,Compliance: missing documents,N-003|N-006|N-010|N-015|N-019|N-022,,,"Provider N, blocks State C submission"
+11,Compliance: supplier licences expiring,"C (State B), G (State A)",,,expiry 2026-12-04 and 2026-12-22

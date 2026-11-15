@@ -1,0 +1,12 @@
+alert,entity,state,detail
+P1 live without approval,L-001,State B,2026-06-15
+P1 live without approval,L-002,State B,2026-03-15
+P1 live without approval,L-003,State B,2026-03-09
+P2 licence expiring,C,State B,2026-12-04
+P2 licence expiring,G,State A,2026-12-22
+P3 missing documents,N-003,State C,PAR sheet
+P3 missing documents,N-006,State C,version hash
+P3 missing documents,N-010,State C,PAR sheet
+P3 missing documents,N-015,State C,RG messaging check
+P3 missing documents,N-019,State C,rules/paytable
+P3 missing documents,N-022,State C,version hash

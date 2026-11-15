@@ -1,0 +1,6 @@
+provider_id,route,aggregator,n_slot,n_table,n_live,n_jackpot,provider_fee,licensed_states,provider_name,aggregator_fee,integration_effort_weeks,portfolio_certified_elsewhere,known_partner,note
+O,Direct,,0,2,22,0,0.14,ABC,Provider O,0.0,14,True,False,"Live dealer studio (blackjack, roulette, game shows)"
+P,Direct,,60,0,0,0,0.12,AB,Provider P,0.0,12,True,False,"Large slot studio, strong brand in other markets"
+R,Aggregator,Aggregator Y,8,0,0,14,0.12,ABC,Provider R,0.025,4,True,True,Network jackpot slots
+S,Aggregator,Aggregator X,6,18,0,0,0.1,A,Provider S,0.03,3,False,True,"RNG table games, only licensed in State A"
+T,Aggregator,Aggregator X,25,0,0,0,0.11,ABC,Provider T,0.03,3,True,True,Small high-volatility slot studio

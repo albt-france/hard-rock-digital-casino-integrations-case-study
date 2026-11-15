@@ -1,0 +1,12 @@
+project_id,provider_id,route,stage,state,status,start_date,planned_end_date,blocker,days_open
+N-AGG,N,Aggregator,State approval,State C,blocked,2026-07-09,2026-08-12,Reviewer backlog,127
+N-AGG,N,Aggregator,Launch,State A,not_started,,2026-08-04,,
+N-AGG,N,Aggregator,Launch,State B,not_started,,2026-07-30,,
+N-AGG,N,Aggregator,Launch,State C,not_started,,2026-08-15,,
+Q-DIR,Q,Direct,Technical integration,,blocked,2026-10-11,2026-11-19,Currency/decimal mismatch on credits,33
+Q-DIR,Q,Direct,QA & staging tests,,not_started,2026-11-26,2026-12-17,,-13
+Q-DIR,Q,Direct,Lab certification,,not_started,2026-12-22,2027-01-09,,-39
+Q-DIR,Q,Direct,State approval,State A,not_started,2027-01-10,2027-01-27,,-58
+Q-DIR,Q,Direct,State approval,State B,not_started,2027-01-12,2027-02-01,,-60
+Q-DIR,Q,Direct,Launch,State A,not_started,2027-01-23,2027-01-27,,-71
+Q-DIR,Q,Direct,Launch,State B,not_started,2027-02-02,2027-02-06,,-81

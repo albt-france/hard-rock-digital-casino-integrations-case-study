@@ -1,0 +1,606 @@
+game_id,provider_id,title,game_type,volatility,rtp_theoretical,sd_per_round,avg_bet,release_date,retired_date,route,aggregator,provider_fee,aggregator_fee,status,states_approved
+A-001,A,Cobalt Compass,Slot,Medium,0.958,6.0,0.9,2024-09-10,,Direct,,0.12,0.0,live,State A|State B
+A-002,A,Cobalt Wharf,Slot,Low,0.947,3.0,1.52,2024-04-11,,Direct,,0.12,0.0,live,State A|State B|State C
+A-003,A,Marble Lighthouse,Slot,Medium,0.941,6.0,1.56,2026-05-30,,Direct,,0.12,0.0,live,State A|State B|State C
+A-004,A,Basalt Echo,Slot,Medium,0.961,6.0,1.12,2026-02-01,,Direct,,0.12,0.0,live,State A|State B|State C
+A-005,A,Kestrel Orchard,Slot,Low,0.939,3.0,1.13,2026-07-01,,Direct,,0.12,0.0,live,State A|State B|State C
+A-006,A,Willow Garden,Slot,Medium,0.94,6.0,1.01,2024-03-25,,Direct,,0.12,0.0,live,State A|State B
+A-007,A,Quartz Vault,Slot,Medium,0.957,6.0,1.06,2024-06-07,,Direct,,0.12,0.0,live,State A|State C
+A-008,A,Juniper Carousel,Slot,Medium,0.953,6.0,1.48,2024-03-26,,Direct,,0.12,0.0,live,State A|State B|State C
+A-009,A,Zephyr Compass,Slot,High,0.954,12.0,1.07,2025-07-31,,Direct,,0.12,0.0,live,State A|State B|State C
+A-010,A,Nimbus Harvest,Slot,High,0.948,12.0,1.15,2024-06-23,,Direct,,0.12,0.0,live,State A|State B|State C
+A-011,A,Quartz Quarry,Slot,Medium,0.943,6.0,1.55,2024-03-24,,Direct,,0.12,0.0,live,State A|State B|State C
+A-012,A,Nimbus Voyage,Slot,Medium,0.937,6.0,1.3,2024-04-14,,Direct,,0.12,0.0,live,State A|State B|State C
+A-013,A,Dune Quarry,Slot,High,0.953,12.0,1.06,2024-03-27,,Direct,,0.12,0.0,live,State A|State B
+A-014,A,Copper Delta,Slot,High,0.947,12.0,1.25,2024-03-14,,Direct,,0.12,0.0,live,State A|State B|State C
+A-015,A,Onyx Vault,Slot,Medium,0.945,6.0,0.82,2024-04-07,,Direct,,0.12,0.0,live,State A|State B|State C
+A-016,A,Saffron Kiln,Slot,Very high,0.96,22.0,1.14,2024-06-26,,Direct,,0.12,0.0,live,State A|State B|State C
+A-017,A,Harbor Compass,Slot,High,0.947,12.0,1.15,2024-03-14,,Direct,,0.12,0.0,live,State A|State B|State C
+A-018,A,Granite Wharf,Slot,Medium,0.94,6.0,1.27,2024-12-15,,Direct,,0.12,0.0,live,State A|State B|State C
+A-019,A,Tundra Meadow,Slot,Medium,0.951,6.0,1.31,2025-10-06,,Direct,,0.12,0.0,live,State A|State B|State C
+A-020,A,Cobalt Fjord,Slot,Medium,0.939,6.0,0.93,2024-03-30,,Direct,,0.12,0.0,live,State A|State B|State C
+A-021,A,Indigo Garden,Slot,Medium,0.944,6.0,0.87,2024-12-05,,Direct,,0.12,0.0,live,State A|State C
+A-022,A,Amber Orchard,Slot,Low,0.948,3.0,1.39,2026-02-23,,Direct,,0.12,0.0,live,State A|State B|State C
+A-023,A,Quartz Orchard,Slot,Medium,0.944,6.0,1.21,2026-04-25,,Direct,,0.12,0.0,live,State A|State B|State C
+A-024,A,Nimbus Atlas,Slot,Low,0.95,3.0,1.11,2024-04-15,,Direct,,0.12,0.0,live,State A|State B|State C
+A-025,A,Velvet Wharf,Slot,High,0.938,12.0,0.98,2026-08-18,,Direct,,0.12,0.0,live,State A|State B|State C
+A-026,A,Granite Quarry,Slot,High,0.957,12.0,1.58,2024-03-25,,Direct,,0.12,0.0,live,State A|State B|State C
+A-027,A,Saffron Parade,Slot,Medium,0.96,6.0,0.92,2024-04-01,,Direct,,0.12,0.0,live,State A|State B|State C
+A-028,A,Paper Canyon,Slot,High,0.959,12.0,1.73,2026-01-23,,Direct,,0.12,0.0,live,State A|State B|State C
+A-029,A,Kestrel Tide,Slot,Medium,0.938,6.0,0.92,2025-02-20,,Direct,,0.12,0.0,live,State A|State B|State C
+A-030,A,Harbor Atlas,Slot,High,0.939,12.0,1.8,2024-03-15,,Direct,,0.12,0.0,live,State A|State B|State C
+A-031,A,Indigo Jetty,Slot,High,0.961,12.0,1.36,2025-04-10,,Direct,,0.12,0.0,live,State A|State B|State C
+A-032,A,Ember Island,Slot,High,0.938,12.0,1.01,2024-07-09,,Direct,,0.12,0.0,live,State A|State B|State C
+A-033,A,Marble Fjord,Slot,High,0.954,12.0,1.11,2026-04-04,,Direct,,0.12,0.0,live,State A|State B|State C
+A-034,A,Dune Delta,Slot,High,0.961,12.0,1.05,2024-03-30,,Direct,,0.12,0.0,live,State A|State B
+A-035,A,Russet Quarry,Slot,Medium,0.938,6.0,2.35,2024-04-09,,Direct,,0.12,0.0,live,State A|State B|State C
+A-036,A,Thunder Yard,Slot,Medium,0.956,6.0,1.69,2024-04-12,,Direct,,0.12,0.0,live,State A|State B|State C
+A-037,A,Nimbus Grove,Slot,Medium,0.951,6.0,1.1,2026-01-27,,Direct,,0.12,0.0,live,State A|State B|State C
+A-038,A,Saffron Delta,Slot,High,0.947,12.0,0.91,2024-04-06,,Direct,,0.12,0.0,live,State A|State B|State C
+A-039,A,Midnight Lighthouse,Slot,Low,0.937,3.0,1.93,2025-01-31,,Direct,,0.12,0.0,live,State A|State B|State C
+A-040,A,Ember Garden,Slot,Very high,0.939,22.0,1.21,2024-03-16,,Direct,,0.12,0.0,live,State A|State B|State C
+A-041,A,Quartz Atlas,Slot,Low,0.94,3.0,1.61,2024-03-28,,Direct,,0.12,0.0,live,State A|State B|State C
+A-042,A,Russet Lighthouse,Slot,Medium,0.959,6.0,1.35,2024-12-26,,Direct,,0.12,0.0,live,State A|State B|State C
+A-043,A,Granite Harvest,Slot,Medium,0.946,6.0,1.33,2024-03-11,,Direct,,0.12,0.0,live,State A|State B|State C
+A-044,A,Lumen Canyon,Slot,Low,0.96,3.0,1.58,2024-04-13,,Direct,,0.12,0.0,live,State A|State B|State C
+A-045,A,Harbor Voyage,Slot,High,0.956,12.0,1.22,2025-09-24,,Direct,,0.12,0.0,live,State A|State B|State C
+A-046,A,Zephyr Jetty,Slot,High,0.947,12.0,1.31,2024-03-31,,Direct,,0.12,0.0,live,State A|State C
+A-047,A,Nimbus Orchard,Slot,Medium,0.941,6.0,1.15,2024-03-31,,Direct,,0.12,0.0,live,State A|State B|State C
+A-048,A,Kestrel Fjord,Slot,Medium,0.961,6.0,1.93,2025-11-27,,Direct,,0.12,0.0,live,State A|State B
+A-049,A,Nimbus Quarry,Slot,High,0.953,12.0,1.27,2025-07-28,,Direct,,0.12,0.0,live,State A|State B|State C
+A-050,A,Prairie Fjord,Slot,Medium,0.954,6.0,1.27,2026-01-10,,Direct,,0.12,0.0,live,State A|State B|State C
+A-051,A,Tundra Canyon,Slot,High,0.937,12.0,0.93,2025-12-31,,Direct,,0.12,0.0,live,State A|State B|State C
+A-052,A,Ember Meadow,Slot,High,0.956,12.0,1.26,2025-09-04,,Direct,,0.12,0.0,live,State A|State B|State C
+A-053,A,Basalt Canyon,Slot,Medium,0.94,6.0,0.7,2024-03-18,,Direct,,0.12,0.0,live,State A|State B|State C
+A-054,A,Russet Wharf,Slot,High,0.948,12.0,1.08,2026-02-06,,Direct,,0.12,0.0,live,State A|State B|State C
+A-055,A,Zephyr Delta,Slot,Low,0.953,3.0,1.53,2024-04-16,,Direct,,0.12,0.0,live,State A|State B|State C
+A-056,A,Zephyr Yard,Slot,High,0.942,12.0,1.2,2024-04-15,,Direct,,0.12,0.0,live,State A|State B|State C
+A-057,A,Silver Echo,Slot,Very high,0.947,22.0,1.04,2024-03-16,,Direct,,0.12,0.0,live,State A|State B|State C
+A-058,A,Velvet Kiln,Slot,Medium,0.945,6.0,1.55,2026-02-21,,Direct,,0.12,0.0,live,State A|State B
+A-059,A,Marble Delta,Slot,High,0.952,12.0,1.11,2024-03-30,,Direct,,0.12,0.0,live,State A|State B|State C
+A-060,A,Russet Canyon,Slot,High,0.943,12.0,1.02,2025-04-29,,Direct,,0.12,0.0,live,State A|State B|State C
+A-061,A,Prairie Garden,Slot,High,0.938,12.0,1.11,2024-04-20,,Direct,,0.12,0.0,live,State A|State B|State C
+A-062,A,Paper Beacon,Slot,Very high,0.953,22.0,1.51,2024-06-16,,Direct,,0.12,0.0,live,State A|State B
+A-063,A,Midnight Atlas,Slot,Medium,0.939,6.0,1.13,2026-03-19,,Direct,,0.12,0.0,live,State A|State B|State C
+A-064,A,Frost Garden,Slot,Low,0.936,3.0,0.9,2024-04-13,,Direct,,0.12,0.0,live,State A|State B|State C
+A-065,A,Indigo Carousel,Slot,Low,0.957,3.0,1.64,2024-06-28,,Direct,,0.12,0.0,live,State A|State B|State C
+A-066,A,Zephyr Nomad,Slot,Medium,0.938,6.0,1.75,2024-04-16,,Direct,,0.12,0.0,live,State A|State B|State C
+A-067,A,Cobalt Carousel,Slot,Low,0.955,3.0,1.53,2024-03-11,,Direct,,0.12,0.0,live,State A|State B|State C
+A-068,A,Indigo Yard,Slot,Low,0.952,3.0,1.21,2024-04-04,,Direct,,0.12,0.0,live,State A|State B|State C
+A-069,A,Zephyr Fjord,Slot,Very high,0.947,22.0,1.36,2024-10-29,,Direct,,0.12,0.0,live,State A|State B|State C
+A-070,A,Tundra Harvest,Slot,Medium,0.951,6.0,1.15,2026-07-22,,Direct,,0.12,0.0,live,State A|State B|State C
+A-071,A,Ember Echo,Jackpot slot,Very high,0.935,25.3,2.35,2024-04-16,,Direct,,0.12,0.0,live,State A|State C
+A-072,A,Onyx Rocket,Jackpot slot,Very high,0.929,25.3,1.52,2024-03-22,,Direct,,0.12,0.0,live,State A|State B|State C
+A-073,A,Crimson Meadow,Jackpot slot,Very high,0.932,25.3,1.06,2024-04-17,,Direct,,0.12,0.0,live,State A|State B|State C
+A-074,A,Russet Island,Jackpot slot,Very high,0.934,25.3,1.1,2024-03-27,,Direct,,0.12,0.0,live,State A|State B|State C
+A-075,A,Quartz Tide,Jackpot slot,Very high,0.94,25.3,1.83,2024-03-20,,Direct,,0.12,0.0,live,State A|State B|State C
+A-076,A,Zephyr Parade,Jackpot slot,Very high,0.931,25.3,2.0,2025-10-03,,Direct,,0.12,0.0,live,State A|State B
+A-077,A,Dune Garden,Jackpot slot,Very high,0.935,25.3,1.56,2024-11-11,,Direct,,0.12,0.0,live,State A|State C
+A-078,A,Zephyr Lantern,Jackpot slot,Very high,0.923,25.3,1.84,2024-03-30,,Direct,,0.12,0.0,live,State A|State B|State C
+A-079,A,Cobalt Island,Jackpot slot,Very high,0.93,25.3,0.89,2024-04-09,,Direct,,0.12,0.0,live,State A|State B|State C
+A-080,A,Juniper Nomad,Jackpot slot,Very high,0.946,25.3,1.75,2024-04-13,,Direct,,0.12,0.0,live,State A|State B|State C
+B-001,B,Umber Delta,Slot,Medium,0.961,6.0,1.09,2025-05-14,,Direct,,0.12,0.0,live,State A|State B|State C
+B-002,B,Zephyr Echo,Slot,Medium,0.952,6.0,1.52,2024-05-13,,Direct,,0.12,0.0,live,State A|State B|State C
+B-003,B,Onyx Echo,Slot,Low,0.958,3.0,1.0,2026-08-04,,Direct,,0.12,0.0,live,State A|State B|State C
+B-004,B,Ember Parade,Slot,Medium,0.937,6.0,1.33,2025-05-13,,Direct,,0.12,0.0,live,State A|State B|State C
+B-005,B,Thunder Echo,Slot,Low,0.959,3.0,1.47,2024-05-10,,Direct,,0.12,0.0,live,State A|State B|State C
+B-006,B,Granite Voyage,Slot,Medium,0.937,6.0,1.02,2024-05-08,,Direct,,0.12,0.0,live,State A|State B|State C
+B-007,B,Marble Vault,Slot,High,0.937,12.0,1.48,2024-05-14,,Direct,,0.12,0.0,live,State A|State B|State C
+B-008,B,Quartz Jetty,Slot,High,0.958,12.0,1.16,2025-06-12,,Direct,,0.12,0.0,live,State A|State B|State C
+B-009,B,Dune Carousel,Slot,Medium,0.948,6.0,1.23,2025-07-12,,Direct,,0.12,0.0,live,State A|State C
+B-010,B,Dune Summit,Slot,Low,0.944,3.0,1.2,2024-05-10,,Direct,,0.12,0.0,live,State A|State B|State C
+B-011,B,Umber Nomad,Slot,Medium,0.951,6.0,1.0,2024-05-01,,Direct,,0.12,0.0,live,State A|State B|State C
+B-012,B,Indigo Wharf,Slot,Medium,0.948,6.0,1.37,2026-08-25,,Direct,,0.12,0.0,live,State A|State B|State C
+B-013,B,Indigo Rocket,Slot,High,0.958,12.0,0.93,2024-05-05,,Direct,,0.12,0.0,live,State A|State B|State C
+B-014,B,Velvet Rocket,Slot,Very high,0.962,22.0,1.97,2024-05-11,,Direct,,0.12,0.0,live,State A|State B|State C
+B-015,B,Indigo Beacon,Slot,High,0.948,12.0,0.8,2026-05-09,,Direct,,0.12,0.0,live,State A|State B|State C
+B-016,B,Nimbus Canyon,Slot,Low,0.95,3.0,1.43,2026-03-12,,Direct,,0.12,0.0,live,State A|State B
+B-017,B,Harbor Beacon,Slot,Medium,0.936,6.0,0.88,2024-05-22,,Direct,,0.12,0.0,live,State A|State B|State C
+B-018,B,Umber Atlas,Slot,High,0.957,12.0,1.07,2024-05-19,,Direct,,0.12,0.0,live,State A|State B|State C
+B-019,B,Harbor Carousel,Slot,Low,0.949,3.0,1.09,2025-07-24,,Direct,,0.12,0.0,live,State A|State B
+B-020,B,Amber Summit,Slot,Medium,0.958,6.0,2.36,2024-05-11,,Direct,,0.12,0.0,live,State A|State B|State C
+B-021,B,Velvet Relay,Slot,Medium,0.942,6.0,1.44,2026-05-15,,Direct,,0.12,0.0,live,State A|State B|State C
+B-022,B,Frost Nomad,Slot,High,0.962,12.0,1.15,2024-05-13,,Direct,,0.12,0.0,live,State A|State B
+B-023,B,Dune Relay,Slot,Very high,0.954,22.0,1.13,2024-06-06,,Direct,,0.12,0.0,live,State A|State B|State C
+B-024,B,Lumen Kiln,Slot,Medium,0.937,6.0,1.35,2024-04-20,,Direct,,0.12,0.0,live,State A|State B|State C
+B-025,B,Silver Tide,Slot,Medium,0.946,6.0,1.0,2026-08-07,,Direct,,0.12,0.0,live,State A|State B|State C
+B-026,B,Willow Kiln,Slot,Medium,0.944,6.0,1.1,2026-06-11,,Direct,,0.12,0.0,live,State A|State C
+B-027,B,Granite Relay,Slot,High,0.943,12.0,1.36,2024-04-26,,Direct,,0.12,0.0,live,State A|State B|State C
+B-028,B,Juniper Beacon,Slot,High,0.956,12.0,1.46,2024-05-07,,Direct,,0.12,0.0,live,State A|State B|State C
+B-029,B,Russet Vault,Slot,High,0.959,12.0,1.52,2025-06-01,,Direct,,0.12,0.0,live,State A|State B|State C
+B-030,B,Frost Meadow,Slot,Very high,0.949,22.0,1.59,2024-05-11,,Direct,,0.12,0.0,live,State A|State B|State C
+B-031,B,Willow Delta,Slot,Medium,0.942,6.0,1.19,2026-05-25,,Direct,,0.12,0.0,live,State A|State B|State C
+B-032,B,Nimbus Beacon,Slot,Low,0.945,3.0,0.98,2024-04-17,,Direct,,0.12,0.0,live,State A|State B|State C
+B-033,B,Crimson Jetty,Slot,Medium,0.946,6.0,0.97,2024-04-26,,Direct,,0.12,0.0,live,State A|State B|State C
+B-034,B,Prairie Island,Slot,Medium,0.947,6.0,0.97,2025-06-18,,Direct,,0.12,0.0,live,State A|State B|State C
+B-035,B,Granite Jetty,Slot,Medium,0.948,6.0,1.34,2025-02-01,,Direct,,0.12,0.0,live,State A|State B|State C
+B-036,B,Granite Orchard,Slot,Medium,0.954,6.0,1.43,2024-04-16,,Direct,,0.12,0.0,live,State A|State B|State C
+B-037,B,Amber Garden,Slot,Low,0.94,3.0,0.71,2024-04-21,,Direct,,0.12,0.0,live,State A|State B|State C
+B-038,B,Dune Canyon,Slot,Medium,0.958,6.0,1.58,2024-05-07,,Direct,,0.12,0.0,live,State A|State B|State C
+B-039,B,Nimbus Echo,Slot,High,0.958,12.0,0.97,2024-04-24,,Direct,,0.12,0.0,live,State A|State B
+B-040,B,Thunder Garden,Slot,Medium,0.957,6.0,1.47,2024-05-24,,Direct,,0.12,0.0,live,State A|State B|State C
+B-041,B,Indigo Grove,Slot,Medium,0.944,6.0,0.8,2024-05-19,,Direct,,0.12,0.0,live,State A|State B|State C
+B-042,B,Amber Wharf,Slot,High,0.954,12.0,1.76,2024-09-07,,Direct,,0.12,0.0,live,State A|State B|State C
+B-043,B,Ember Relay,Slot,Low,0.939,3.0,1.27,2024-06-06,,Direct,,0.12,0.0,live,State A|State B|State C
+B-044,B,Frost Harvest,Slot,Low,0.962,3.0,1.25,2024-04-18,,Direct,,0.12,0.0,live,State A|State B|State C
+B-045,B,Cobalt Comet,Slot,Medium,0.952,6.0,0.91,2024-05-13,,Direct,,0.12,0.0,live,State A|State B|State C
+B-046,B,Basalt Kiln,Jackpot slot,Very high,0.945,25.3,1.8,2024-05-11,,Direct,,0.12,0.0,live,State A
+B-047,B,Midnight Comet,Jackpot slot,Very high,0.928,25.3,1.53,2024-09-24,,Direct,,0.12,0.0,live,State A|State B|State C
+B-048,B,Quartz Parade,Jackpot slot,Very high,0.937,25.3,1.03,2026-01-12,,Direct,,0.12,0.0,live,State A|State B|State C
+B-049,B,Thunder Parade,Jackpot slot,Very high,0.92,25.3,1.23,2025-02-23,,Direct,,0.12,0.0,live,State A|State B|State C
+B-050,B,Prairie Compass,Jackpot slot,Very high,0.932,25.3,1.5,2026-06-05,,Direct,,0.12,0.0,live,State A|State B|State C
+B-051,B,Harbor Fjord,Jackpot slot,Very high,0.926,25.3,1.05,2026-08-26,,Direct,,0.12,0.0,live,State A|State B|State C
+B-052,B,Thunder Comet,Jackpot slot,Very high,0.946,25.3,1.36,2024-05-14,,Direct,,0.12,0.0,live,State A|State B|State C
+B-053,B,Tundra Wharf,Jackpot slot,Very high,0.943,25.3,1.27,2025-05-10,,Direct,,0.12,0.0,live,State A|State B|State C
+B-054,B,Cobalt Atlas,Jackpot slot,Very high,0.942,25.3,2.25,2024-04-23,,Direct,,0.12,0.0,live,State A|State B|State C
+B-055,B,Copper Wharf,Jackpot slot,Very high,0.947,25.3,3.1,2024-05-10,,Direct,,0.12,0.0,live,State A|State B|State C
+B-056,B,Juniper Lantern,Jackpot slot,Very high,0.938,25.3,1.24,2025-04-09,,Direct,,0.12,0.0,live,State A|State B|State C
+B-057,B,Kestrel Lantern,Jackpot slot,Very high,0.932,25.3,1.56,2024-04-28,,Direct,,0.12,0.0,live,State A|State B
+B-058,B,Ember Atlas,Jackpot slot,Very high,0.927,25.3,1.38,2024-05-23,,Direct,,0.12,0.0,live,State A|State B|State C
+B-059,B,Kestrel Island,Jackpot slot,Very high,0.926,25.3,1.21,2024-05-04,,Direct,,0.12,0.0,live,State A|State B
+B-060,B,Prairie Delta,Jackpot slot,Very high,0.934,25.3,1.42,2024-05-24,,Direct,,0.12,0.0,live,State A|State B|State C
+C-001,C,Paper Delta,Slot,Medium,0.943,6.0,1.32,2025-01-29,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B
+C-002,C,Paper Summit,Slot,Very high,0.937,22.0,1.71,2024-06-28,,Aggregator,Aggregator X,0.11,0.03,live,State A|State C
+C-003,C,Marble Canyon,Slot,Very high,0.952,22.0,1.26,2025-08-02,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+C-004,C,Ember Delta,Slot,Very high,0.955,22.0,0.85,2024-06-23,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+C-005,C,Dune Yard,Slot,Very high,0.941,22.0,1.18,2025-04-29,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+C-006,C,Dune Lantern,Slot,Very high,0.94,22.0,1.44,2024-05-30,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B
+C-007,C,Paper Wharf,Slot,Very high,0.96,25.0,1.76,2026-05-04,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+C-008,C,Ember Beacon,Slot,Very high,0.956,22.0,2.0,2026-07-21,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+C-009,C,Lumen Quarry,Slot,High,0.939,12.0,1.67,2024-05-27,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B
+C-010,C,Ember Lantern,Slot,Low,0.942,3.0,1.55,2024-06-11,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+C-011,C,Amber Jetty,Slot,Very high,0.948,22.0,1.36,2024-06-10,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+C-012,C,Prairie Echo,Slot,Very high,0.948,22.0,1.41,2024-06-21,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+C-013,C,Quartz Beacon,Slot,Medium,0.956,6.0,1.38,2024-07-04,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+C-014,C,Willow Grove,Slot,High,0.952,12.0,0.89,2024-06-25,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B
+C-015,C,Lumen Nomad,Slot,Low,0.939,3.0,1.46,2025-07-12,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+C-016,C,Lumen Meadow,Slot,High,0.953,12.0,1.4,2026-01-22,,Aggregator,Aggregator X,0.11,0.03,live,State A|State C
+C-017,C,Prairie Kiln,Slot,Low,0.953,3.0,0.88,2025-09-24,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+C-018,C,Basalt Yard,Slot,Very high,0.949,22.0,1.55,2026-02-10,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+C-019,C,Willow Yard,Slot,High,0.95,12.0,1.29,2025-09-29,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+C-020,C,Kestrel Vault,Slot,High,0.938,12.0,1.48,2024-06-05,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+C-021,C,Velvet Tide,Slot,Low,0.944,3.0,0.83,2024-05-26,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+C-022,C,Zephyr Garden,Slot,Low,0.942,3.0,1.46,2024-06-15,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+C-023,C,Silver Quarry,Slot,Very high,0.961,22.0,1.25,2026-02-07,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B
+C-024,C,Harbor Wharf,Slot,High,0.954,12.0,1.1,2024-06-28,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+C-025,C,Silver Summit,Slot,High,0.96,12.0,1.59,2025-02-20,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+C-026,C,Saffron Lighthouse,Slot,Low,0.96,3.0,0.98,2025-02-25,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+C-027,C,Amber Yard,Slot,Very high,0.956,22.0,1.81,2025-10-29,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+C-028,C,Nimbus Tide,Slot,Medium,0.951,6.0,1.8,2024-05-31,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+C-029,C,Russet Fjord,Slot,Low,0.944,3.0,1.23,2024-09-10,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+C-030,C,Midnight Summit,Slot,High,0.962,12.0,1.32,2024-05-24,,Aggregator,Aggregator X,0.11,0.03,live,State A|State C
+C-031,C,Marble Summit,Slot,Very high,0.961,22.0,1.39,2024-06-26,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B
+C-032,C,Ember Orchard,Slot,Very high,0.938,22.0,1.47,2026-06-04,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+C-033,C,Prairie Quarry,Slot,High,0.954,12.0,1.7,2024-05-21,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B
+C-034,C,Crimson Vault,Slot,Very high,0.944,22.0,1.46,2026-01-23,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+C-035,C,Lumen Vault,Slot,High,0.956,12.0,1.73,2026-06-22,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+C-036,C,Copper Harvest,Slot,Very high,0.948,22.0,1.28,2026-02-10,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B
+C-037,C,Thunder Canyon,Slot,Low,0.949,3.0,1.25,2024-06-09,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+C-038,C,Basalt Carousel,Slot,Low,0.953,3.0,1.22,2026-03-04,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+C-039,C,Indigo Lighthouse,Slot,High,0.957,12.0,1.73,2024-06-05,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B
+C-040,C,Lumen Jetty,Slot,High,0.955,12.0,0.7,2026-02-13,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+C-041,C,Saffron Grove,Slot,Very high,0.938,22.0,1.61,2024-06-02,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+C-042,C,Frost Beacon,Slot,Very high,0.939,22.0,1.49,2025-04-20,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+C-043,C,Frost Comet,Slot,Very high,0.959,22.0,1.14,2024-06-13,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+C-044,C,Willow Atlas,Slot,Very high,0.957,22.0,1.13,2025-09-09,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+C-045,C,Thunder Summit,Slot,High,0.942,12.0,0.84,2024-05-30,,Aggregator,Aggregator X,0.11,0.03,live,State A|State C
+D-001,D,Willow Echo,Live dealer,Low,0.979,1.4,11.5,2025-04-27,,Direct,,0.14,0.0,live,State A|State B
+D-002,D,Tundra Vault,Live dealer,Low,0.976,1.4,14.78,2024-06-17,,Direct,,0.14,0.0,live,State A|State B|State C
+D-003,D,Granite Compass,Live dealer,Low,0.988,1.4,20.58,2024-11-04,,Direct,,0.14,0.0,live,State A|State B|State C
+D-004,D,Onyx Beacon,Live dealer,Low,0.978,1.4,12.69,2025-06-30,,Direct,,0.14,0.0,live,State A|State B
+D-005,D,Cobalt Meadow,Live dealer,Low,0.981,1.4,15.6,2024-06-25,,Direct,,0.14,0.0,live,State A|State B|State C
+D-006,D,Frost Jetty,Live dealer,Low,0.98,1.4,17.24,2024-07-08,,Direct,,0.14,0.0,live,State A|State B|State C
+D-007,D,Kestrel Meadow,Live dealer,Low,0.988,1.4,8.25,2024-12-01,,Direct,,0.14,0.0,live,State A|State B|State C
+D-008,D,Basalt Delta,Live dealer,Low,0.984,1.4,15.82,2024-06-24,,Direct,,0.14,0.0,live,State A|State B|State C
+D-009,D,Midnight Vault,Live dealer,Low,0.99,1.4,18.24,2024-07-08,,Direct,,0.14,0.0,live,State A|State B|State C
+D-010,D,Cobalt Relay,Live dealer,Low,0.987,1.4,11.9,2024-07-19,,Direct,,0.14,0.0,live,State A|State B
+D-011,D,Crimson Lighthouse,Live dealer,Low,0.984,1.4,18.45,2024-07-02,,Direct,,0.14,0.0,live,State A|State B
+D-012,D,Crimson Delta,Live dealer,Low,0.988,1.4,14.01,2025-09-30,,Direct,,0.14,0.0,live,State A|State B|State C
+D-013,D,Kestrel Lighthouse,Live dealer,Low,0.989,1.4,15.33,2025-11-15,,Direct,,0.14,0.0,live,State A|State B
+D-014,D,Indigo Nomad,Live dealer,Low,0.984,1.4,13.35,2025-02-09,,Direct,,0.14,0.0,live,State A|State B|State C
+D-015,D,Tundra Voyage,Live dealer,Low,0.981,1.4,14.18,2024-06-30,,Direct,,0.14,0.0,live,State A|State B|State C
+D-016,D,Crimson Lantern,Live dealer,Low,0.978,1.4,15.54,2026-02-24,,Direct,,0.14,0.0,live,State A|State B|State C
+D-017,D,Willow Voyage,Live dealer,Low,0.984,1.4,23.5,2026-07-12,,Direct,,0.14,0.0,live,State A|State B
+D-018,D,Midnight Lantern,Live dealer,Low,0.989,1.4,13.77,2026-08-23,,Direct,,0.14,0.0,live,State A|State B|State C
+D-019,D,Quartz Canyon,Live dealer,Low,0.986,1.4,9.67,2024-07-08,,Direct,,0.14,0.0,live,State A|State B|State C
+D-020,D,Russet Compass,Live dealer,Low,0.98,1.4,19.66,2026-08-31,,Direct,,0.14,0.0,live,State A|State B|State C
+D-021,D,Ember Nomad,Live dealer,Low,0.982,1.4,19.77,2026-03-10,,Direct,,0.14,0.0,live,State A|State B|State C
+D-022,D,Zephyr Carousel,Live dealer,Low,0.978,1.4,9.5,2026-08-10,,Direct,,0.14,0.0,live,State A|State B
+D-023,D,Paper Parade,Live dealer,Low,0.983,1.4,12.47,2025-07-14,,Direct,,0.14,0.0,live,State A|State B|State C
+D-024,D,Silver Lantern,Live dealer,Low,0.981,1.4,13.52,2024-07-22,,Direct,,0.14,0.0,live,State A|State B|State C
+D-025,D,Zephyr Wharf,Live dealer,Low,0.988,1.4,17.58,2024-06-29,,Direct,,0.14,0.0,live,State A|State B|State C
+D-026,D,Nimbus Vault,Live dealer,Low,0.977,1.4,10.83,2024-09-17,,Direct,,0.14,0.0,live,State A|State B|State C
+D-027,D,Lumen Relay,Live dealer,Low,0.983,1.4,15.51,2024-07-05,,Direct,,0.14,0.0,live,State A|State B|State C
+D-028,D,Onyx Kiln,Live dealer,Low,0.976,1.4,17.74,2024-11-25,,Direct,,0.14,0.0,live,State A|State B|State C
+D-029,D,Marble Harvest,Live dealer,Low,0.985,1.4,15.17,2024-08-21,,Direct,,0.14,0.0,live,State A|State B|State C
+D-030,D,Kestrel Beacon,Live dealer,Low,0.983,1.4,17.36,2025-07-12,,Direct,,0.14,0.0,live,State A|State B|State C
+E-001,E,Juniper Parade,Table,Low,0.974,1.1,6.52,2026-06-27,,Aggregator,Aggregator X,0.1,0.03,live,State A|State B
+E-002,E,Amber Carousel,Table,Low,0.976,1.1,8.12,2024-09-27,,Aggregator,Aggregator X,0.1,0.03,live,State A|State B|State C
+E-003,E,Thunder Compass,Table,Low,0.974,1.1,11.16,2025-07-11,,Aggregator,Aggregator X,0.1,0.03,live,State A|State B|State C
+E-004,E,Frost Rocket,Table,Low,0.975,1.1,6.16,2024-11-10,,Aggregator,Aggregator X,0.1,0.03,live,State A|State B|State C
+E-005,E,Velvet Summit,Table,Low,0.994,1.1,9.86,2024-09-07,,Aggregator,Aggregator X,0.1,0.03,live,State A|State C
+E-006,E,Silver Comet,Table,Low,0.994,1.1,8.31,2026-03-13,,Aggregator,Aggregator X,0.1,0.03,live,State A|State B|State C
+E-007,E,Onyx Island,Table,Low,0.982,1.1,6.86,2024-08-19,,Aggregator,Aggregator X,0.1,0.03,live,State A|State B|State C
+E-008,E,Velvet Nomad,Table,Low,0.993,1.1,10.1,2024-10-10,,Aggregator,Aggregator X,0.1,0.03,live,State A|State B|State C
+E-009,E,Basalt Island,Table,Low,0.978,1.1,10.39,2026-08-22,,Aggregator,Aggregator X,0.1,0.03,live,State A|State B
+E-010,E,Basalt Harvest,Table,Low,0.974,1.1,7.78,2024-09-11,,Aggregator,Aggregator X,0.1,0.03,live,State A|State B|State C
+E-011,E,Thunder Harvest,Table,Low,0.987,1.1,8.11,2024-08-26,,Aggregator,Aggregator X,0.1,0.03,live,State A|State B
+E-012,E,Tundra Carousel,Table,Low,0.994,1.1,15.71,2024-08-09,,Aggregator,Aggregator X,0.1,0.03,live,State A|State B|State C
+E-013,E,Cobalt Summit,Table,Low,0.981,1.1,8.54,2026-07-30,,Aggregator,Aggregator X,0.1,0.03,live,State A|State B|State C
+E-014,E,Saffron Jetty,Table,Low,0.987,1.1,11.33,2024-12-07,,Aggregator,Aggregator X,0.1,0.03,live,State A|State B|State C
+E-015,E,Nimbus Garden,Table,Low,0.994,1.1,7.24,2024-08-11,,Aggregator,Aggregator X,0.1,0.03,live,State A|State B|State C
+E-016,E,Prairie Parade,Table,Low,0.984,1.1,6.59,2024-08-16,,Aggregator,Aggregator X,0.1,0.03,live,State A|State B|State C
+E-017,E,Crimson Garden,Table,Low,0.974,1.1,12.9,2025-06-24,,Aggregator,Aggregator X,0.1,0.03,live,State A|State B|State C
+E-018,E,Saffron Beacon,Table,Low,0.995,1.1,7.76,2025-08-18,,Aggregator,Aggregator X,0.1,0.03,live,State A|State C
+E-019,E,Paper Lighthouse,Table,Low,0.987,1.1,12.99,2026-04-26,,Aggregator,Aggregator X,0.1,0.03,live,State A|State B|State C
+E-020,E,Frost Carousel,Table,Low,0.987,1.1,11.45,2024-08-22,,Aggregator,Aggregator X,0.1,0.03,live,State A|State B|State C
+E-021,E,Copper Lantern,Table,Low,0.989,1.1,6.3,2025-08-27,,Aggregator,Aggregator X,0.1,0.03,live,State A|State B|State C
+E-022,E,Kestrel Delta,Table,Low,0.977,1.1,8.58,2024-10-30,,Aggregator,Aggregator X,0.1,0.03,live,State A|State B|State C
+E-023,E,Willow Quarry,Table,Low,0.994,1.1,13.79,2024-08-09,,Aggregator,Aggregator X,0.1,0.03,live,State A|State B|State C
+E-024,E,Velvet Yard,Table,Low,0.989,1.1,6.39,2024-09-04,,Aggregator,Aggregator X,0.1,0.03,live,State A|State B|State C
+E-025,E,Indigo Harvest,Table,Low,0.976,1.1,6.88,2025-03-29,,Aggregator,Aggregator X,0.1,0.03,live,State A|State B|State C
+F-001,F,Marble Orchard,Slot,High,0.955,12.0,1.08,2025-02-28,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-002,F,Nimbus Kiln,Slot,Low,0.948,3.0,0.74,2024-10-21,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-003,F,Frost Island,Slot,Low,0.947,3.0,0.82,2024-11-10,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-004,F,Lumen Beacon,Slot,Medium,0.952,6.0,0.91,2026-07-22,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-005,F,Nimbus Comet,Slot,Very high,0.956,22.0,1.2,2026-03-25,,Aggregator,Aggregator Y,0.11,0.025,live,State A
+F-006,F,Cobalt Orchard,Slot,Medium,0.95,6.0,0.93,2025-09-19,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-007,F,Velvet Grove,Slot,High,0.958,12.0,1.17,2026-01-19,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-008,F,Marble Yard,Slot,Medium,0.96,6.0,1.02,2024-10-17,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-009,F,Granite Fjord,Slot,Low,0.937,3.0,0.89,2026-03-29,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-010,F,Frost Yard,Slot,High,0.942,12.0,1.29,2025-02-07,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-011,F,Silver Island,Slot,Very high,0.942,22.0,1.26,2024-11-15,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-012,F,Zephyr Relay,Slot,High,0.941,12.0,1.62,2024-10-22,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-013,F,Granite Grove,Slot,Medium,0.957,6.0,0.83,2024-10-12,,Aggregator,Aggregator Y,0.11,0.025,live,State A
+F-014,F,Lumen Harvest,Slot,Low,0.946,3.0,0.88,2025-02-16,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-015,F,Willow Vault,Slot,Very high,0.946,22.0,1.85,2024-10-16,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-016,F,Onyx Delta,Slot,Low,0.948,3.0,1.31,2024-10-15,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-017,F,Quartz Lighthouse,Slot,Medium,0.942,6.0,1.06,2024-10-18,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-018,F,Granite Meadow,Slot,Medium,0.936,6.0,1.26,2024-11-09,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-019,F,Ember Grove,Slot,Very high,0.958,22.0,1.37,2024-11-26,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-020,F,Juniper Canyon,Slot,High,0.938,12.0,1.64,2025-12-16,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-021,F,Crimson Nomad,Slot,High,0.949,12.0,0.68,2024-11-08,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-022,F,Copper Voyage,Slot,Medium,0.949,6.0,1.2,2025-03-23,,Aggregator,Aggregator Y,0.11,0.025,live,State A
+F-023,F,Silver Garden,Slot,Medium,0.955,6.0,0.84,2025-04-02,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-024,F,Prairie Nomad,Slot,High,0.96,12.0,0.95,2026-08-13,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-025,F,Tundra Orchard,Slot,Very high,0.938,22.0,1.34,2024-10-31,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-026,F,Lumen Summit,Slot,High,0.943,12.0,0.83,2026-08-26,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-027,F,Indigo Tide,Slot,High,0.936,12.0,1.09,2024-11-12,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-028,F,Velvet Orchard,Slot,Medium,0.958,6.0,1.21,2024-10-09,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-029,F,Kestrel Yard,Slot,Medium,0.958,6.0,0.91,2026-03-07,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-030,F,Paper Meadow,Slot,Medium,0.941,6.0,0.94,2024-11-07,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-031,F,Dune Tide,Slot,High,0.949,12.0,1.33,2025-01-01,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-032,F,Paper Carousel,Slot,Medium,0.951,6.0,0.97,2024-11-08,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-033,F,Umber Garden,Slot,Medium,0.94,6.0,0.88,2024-10-12,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-034,F,Cobalt Beacon,Slot,Low,0.939,3.0,1.1,2026-09-02,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-035,F,Basalt Summit,Slot,High,0.952,12.0,1.1,2026-07-28,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-036,F,Velvet Fjord,Slot,Low,0.957,3.0,1.13,2024-10-25,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-037,F,Umber Jetty,Slot,High,0.958,12.0,1.11,2024-11-11,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-038,F,Willow Nomad,Slot,Very high,0.943,22.0,1.65,2026-02-03,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-039,F,Indigo Summit,Slot,Medium,0.952,6.0,1.03,2024-10-20,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-040,F,Umber Summit,Slot,Medium,0.946,6.0,1.54,2024-10-09,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-041,F,Copper Yard,Slot,Medium,0.957,6.0,0.9,2024-11-02,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-042,F,Willow Canyon,Slot,Very high,0.948,22.0,0.94,2025-12-16,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-043,F,Marble Parade,Slot,Medium,0.96,6.0,1.65,2025-11-02,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-044,F,Onyx Relay,Slot,Medium,0.938,6.0,1.34,2024-10-14,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-045,F,Quartz Yard,Slot,Low,0.95,3.0,1.12,2024-10-11,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-046,F,Silver Fjord,Slot,Medium,0.946,6.0,0.77,2025-05-24,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-047,F,Silver Parade,Slot,High,0.958,12.0,1.34,2026-04-27,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-048,F,Granite Vault,Slot,Medium,0.962,6.0,1.41,2025-04-09,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-049,F,Velvet Carousel,Slot,Very high,0.941,22.0,1.48,2026-01-19,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+F-050,F,Thunder Relay,Slot,Medium,0.944,6.0,1.44,2026-04-21,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+G-001,G,Russet Tide,Slot,Medium,0.955,6.0,1.25,2025-01-29,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+G-002,G,Midnight Voyage,Slot,Medium,0.956,6.0,1.14,2025-10-10,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+G-003,G,Dune Fjord,Slot,High,0.942,12.0,1.05,2025-01-13,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B
+G-004,G,Basalt Atlas,Slot,Low,0.951,3.0,0.95,2025-02-15,,Aggregator,Aggregator X,0.11,0.03,live,State A|State C
+G-005,G,Nimbus Lighthouse,Slot,High,0.935,12.0,1.14,2025-02-05,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B
+G-006,G,Granite Lighthouse,Slot,High,0.951,12.0,0.79,2026-02-16,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+G-007,G,Thunder Orchard,Slot,Medium,0.941,6.0,1.12,2025-01-17,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B
+G-008,G,Kestrel Jetty,Slot,Medium,0.951,6.0,0.85,2025-10-05,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+G-009,G,Midnight Orchard,Slot,Medium,0.942,6.0,0.85,2025-02-16,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B
+G-010,G,Granite Canyon,Slot,High,0.96,12.0,1.45,2025-01-20,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+G-011,G,Juniper Garden,Slot,Very high,0.935,22.0,1.39,2026-03-21,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+G-012,G,Crimson Fjord,Slot,Medium,0.96,6.0,0.58,2025-03-03,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+G-013,G,Tundra Relay,Slot,Low,0.955,3.0,0.77,2025-02-10,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+G-014,G,Velvet Atlas,Slot,Low,0.941,3.0,1.01,2025-08-24,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+G-015,G,Cobalt Grove,Slot,High,0.945,12.0,1.02,2026-05-03,,Aggregator,Aggregator X,0.11,0.03,live,State A|State C
+G-016,G,Harbor Delta,Slot,High,0.962,12.0,0.8,2025-01-23,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B
+G-017,G,Midnight Kiln,Slot,Low,0.948,3.0,0.8,2025-04-07,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B
+G-018,G,Prairie Jetty,Slot,Medium,0.961,6.0,1.08,2026-06-06,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+G-019,G,Umber Orchard,Slot,Low,0.939,3.0,1.33,2025-04-03,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+G-020,G,Basalt Grove,Slot,Medium,0.949,6.0,1.28,2025-01-30,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+G-021,G,Juniper Tide,Slot,Low,0.935,3.0,1.3,2025-01-26,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+G-022,G,Lumen Carousel,Slot,Medium,0.936,6.0,1.03,2025-11-29,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+G-023,G,Midnight Rocket,Slot,Low,0.951,3.0,1.35,2026-07-13,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+G-024,G,Indigo Island,Slot,Very high,0.936,22.0,1.39,2025-02-19,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+G-025,G,Zephyr Kiln,Slot,Very high,0.935,22.0,1.46,2025-03-16,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+G-026,G,Midnight Echo,Slot,Medium,0.939,6.0,1.86,2025-02-21,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+G-027,G,Quartz Meadow,Slot,Very high,0.949,22.0,1.23,2026-08-25,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+G-028,G,Harbor Echo,Slot,Medium,0.958,6.0,1.11,2025-01-30,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+G-029,G,Velvet Jetty,Slot,Low,0.946,3.0,1.6,2025-02-10,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B
+G-030,G,Umber Lantern,Slot,Medium,0.944,6.0,1.03,2025-06-21,,Aggregator,Aggregator X,0.11,0.03,live,State A|State C
+G-031,G,Basalt Relay,Slot,Medium,0.959,6.0,0.92,2025-02-11,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B
+G-032,G,Basalt Rocket,Slot,High,0.939,12.0,1.11,2025-06-06,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+G-033,G,Ember Wharf,Slot,High,0.962,12.0,1.37,2025-02-03,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+G-034,G,Ember Compass,Slot,Medium,0.935,6.0,1.19,2025-04-30,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+G-035,G,Silver Delta,Slot,Medium,0.942,6.0,0.91,2025-01-27,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+H-001,H,Indigo Meadow,Slot,High,0.944,12.0,1.38,2025-02-25,,Aggregator,Aggregator X,0.12,0.03,live,State A|State B|State C
+H-002,H,Russet Voyage,Slot,Very high,0.949,22.0,1.41,2026-08-02,2026-04-01,Aggregator,Aggregator X,0.12,0.03,retired,
+H-003,H,Juniper Yard,Slot,Very high,0.947,22.0,1.52,2026-06-12,,Aggregator,Aggregator X,0.12,0.03,live,State A|State B|State C
+H-004,H,Cobalt Garden,Slot,Low,0.962,3.0,1.05,2025-03-02,,Aggregator,Aggregator X,0.12,0.03,live,State A|State B|State C
+H-005,H,Cobalt Vault,Slot,Very high,0.951,22.0,1.02,2026-04-30,,Aggregator,Aggregator X,0.12,0.03,live,State A|State B|State C
+H-006,H,Midnight Beacon,Slot,High,0.942,12.0,1.27,2025-03-16,2026-04-01,Aggregator,Aggregator X,0.12,0.03,retired,
+H-007,H,Marble Carousel,Slot,High,0.944,12.0,1.02,2026-07-10,,Aggregator,Aggregator X,0.12,0.03,live,State A|State B|State C
+H-008,H,Lumen Parade,Slot,Medium,0.945,6.0,1.63,2025-12-25,,Aggregator,Aggregator X,0.12,0.03,live,State A|State B|State C
+H-009,H,Crimson Atlas,Slot,Very high,0.958,22.0,1.33,2025-03-13,2026-04-01,Aggregator,Aggregator X,0.12,0.03,retired,
+H-010,H,Juniper Relay,Slot,Medium,0.96,6.0,1.04,2025-02-24,2026-04-01,Aggregator,Aggregator X,0.12,0.03,retired,
+H-011,H,Quartz Kiln,Slot,Very high,0.937,22.0,1.23,2026-01-20,,Aggregator,Aggregator X,0.12,0.03,live,State A|State B|State C
+H-012,H,Lumen Delta,Slot,Very high,0.959,22.0,1.02,2025-02-20,,Aggregator,Aggregator X,0.12,0.03,live,State A|State B|State C
+H-013,H,Juniper Orchard,Slot,Medium,0.938,6.0,1.44,2025-10-23,2026-04-01,Aggregator,Aggregator X,0.12,0.03,retired,
+H-014,H,Harbor Orchard,Slot,Very high,0.937,22.0,1.04,2025-03-05,,Aggregator,Aggregator X,0.12,0.03,live,State A
+H-015,H,Thunder Jetty,Slot,High,0.946,12.0,1.36,2025-02-24,,Aggregator,Aggregator X,0.12,0.03,live,State A|State B|State C
+H-016,H,Onyx Wharf,Slot,Low,0.936,3.0,1.33,2025-04-10,,Aggregator,Aggregator X,0.12,0.03,live,State A|State B|State C
+H-017,H,Kestrel Compass,Slot,High,0.959,12.0,1.11,2025-03-19,,Aggregator,Aggregator X,0.12,0.03,live,State A|State B|State C
+H-018,H,Paper Quarry,Slot,Medium,0.937,6.0,1.31,2025-03-03,,Aggregator,Aggregator X,0.12,0.03,live,State A|State B|State C
+H-019,H,Harbor Vault,Slot,High,0.945,12.0,1.09,2025-02-20,,Aggregator,Aggregator X,0.12,0.03,live,State A|State B|State C
+H-020,H,Amber Lantern,Slot,High,0.961,12.0,1.39,2025-04-21,,Aggregator,Aggregator X,0.12,0.03,live,State A|State B|State C
+H-021,H,Thunder Wharf,Slot,High,0.962,12.0,1.95,2025-10-15,,Aggregator,Aggregator X,0.12,0.03,live,State A|State B|State C
+H-022,H,Amber Delta,Slot,Very high,0.949,22.0,1.28,2026-06-06,2026-04-01,Aggregator,Aggregator X,0.12,0.03,retired,
+H-023,H,Paper Nomad,Slot,Very high,0.958,22.0,1.3,2025-03-12,,Aggregator,Aggregator X,0.12,0.03,live,State A|State B|State C
+H-024,H,Ember Carousel,Slot,High,0.946,12.0,1.86,2025-03-17,,Aggregator,Aggregator X,0.12,0.03,live,State A|State B
+H-025,H,Indigo Fjord,Slot,High,0.951,12.0,1.41,2025-03-20,,Aggregator,Aggregator X,0.12,0.03,live,State A|State B
+H-026,H,Paper Atlas,Slot,High,0.961,12.0,0.69,2025-06-11,,Aggregator,Aggregator X,0.12,0.03,live,State A|State B|State C
+H-027,H,Onyx Canyon,Slot,High,0.947,12.0,1.43,2025-08-16,,Aggregator,Aggregator X,0.12,0.03,live,State A|State B|State C
+H-028,H,Copper Canyon,Slot,High,0.94,12.0,1.46,2025-02-15,,Aggregator,Aggregator X,0.12,0.03,live,State A|State B|State C
+H-029,H,Onyx Summit,Slot,Low,0.937,3.0,1.57,2025-03-18,,Aggregator,Aggregator X,0.12,0.03,live,State A|State B|State C
+H-030,H,Lumen Voyage,Slot,Medium,0.94,6.0,1.7,2025-10-10,,Aggregator,Aggregator X,0.12,0.03,live,State A|State B|State C
+H-031,H,Onyx Jetty,Slot,Medium,0.947,6.0,1.49,2026-06-02,2026-04-01,Aggregator,Aggregator X,0.12,0.03,retired,
+H-032,H,Quartz Relay,Slot,Low,0.94,3.0,1.12,2025-03-02,2026-04-01,Aggregator,Aggregator X,0.12,0.03,retired,
+H-033,H,Basalt Voyage,Slot,Very high,0.937,22.0,1.11,2025-03-16,2026-04-01,Aggregator,Aggregator X,0.12,0.03,retired,
+H-034,H,Willow Harvest,Slot,High,0.947,12.0,1.25,2026-07-06,,Aggregator,Aggregator X,0.12,0.03,live,State A|State B|State C
+H-035,H,Onyx Meadow,Slot,Very high,0.936,22.0,1.27,2025-05-07,,Aggregator,Aggregator X,0.12,0.03,live,State A|State B|State C
+H-036,H,Thunder Vault,Slot,Medium,0.946,6.0,1.39,2025-02-23,,Aggregator,Aggregator X,0.12,0.03,live,State A|State B|State C
+H-037,H,Prairie Vault,Slot,Medium,0.945,6.0,0.72,2025-02-22,,Aggregator,Aggregator X,0.12,0.03,live,State A|State B
+H-038,H,Russet Echo,Slot,High,0.958,12.0,1.24,2025-02-27,,Aggregator,Aggregator X,0.12,0.03,live,State A|State B|State C
+H-039,H,Willow Fjord,Slot,Low,0.955,3.0,1.81,2025-03-21,,Aggregator,Aggregator X,0.12,0.03,live,State A|State B|State C
+H-040,H,Frost Voyage,Slot,Medium,0.94,6.0,1.47,2025-02-25,2026-04-01,Aggregator,Aggregator X,0.12,0.03,retired,
+I-001,I,Willow Orchard,Jackpot slot,Very high,0.944,25.3,1.45,2025-05-19,,Aggregator,Aggregator Y,0.12,0.025,live,State A|State B|State C
+I-002,I,Paper Jetty,Jackpot slot,Very high,0.948,25.3,1.28,2026-07-25,,Aggregator,Aggregator Y,0.12,0.025,live,State A|State B|State C
+I-003,I,Willow Carousel,Jackpot slot,Very high,0.947,25.3,1.59,2025-06-02,,Aggregator,Aggregator Y,0.12,0.025,live,State A|State B|State C
+I-004,I,Harbor Yard,Jackpot slot,Very high,0.945,25.3,1.23,2026-07-09,,Aggregator,Aggregator Y,0.12,0.025,live,State A|State B|State C
+I-005,I,Silver Beacon,Jackpot slot,Very high,0.94,25.3,1.38,2025-05-07,,Aggregator,Aggregator Y,0.12,0.025,live,State A|State B|State C
+I-006,I,Amber Grove,Jackpot slot,Very high,0.936,25.3,1.25,2026-06-18,,Aggregator,Aggregator Y,0.12,0.025,live,State A|State B|State C
+I-007,I,Russet Carousel,Jackpot slot,Very high,0.938,25.3,1.79,2026-02-07,,Aggregator,Aggregator Y,0.12,0.025,live,State A|State B|State C
+I-008,I,Indigo Compass,Jackpot slot,Very high,0.939,25.3,0.93,2025-04-26,,Aggregator,Aggregator Y,0.12,0.025,live,State A|State B|State C
+I-009,I,Saffron Carousel,Jackpot slot,Very high,0.946,25.3,1.12,2026-01-10,,Aggregator,Aggregator Y,0.12,0.025,live,State A|State B|State C
+I-010,I,Frost Grove,Jackpot slot,Very high,0.942,25.3,1.16,2025-10-26,,Aggregator,Aggregator Y,0.12,0.025,live,State A|State B|State C
+I-011,I,Nimbus Carousel,Jackpot slot,Very high,0.942,25.3,2.06,2026-07-02,,Aggregator,Aggregator Y,0.12,0.025,live,State A|State B|State C
+I-012,I,Lumen Fjord,Jackpot slot,Very high,0.931,25.3,2.21,2025-10-27,,Aggregator,Aggregator Y,0.12,0.025,live,State A|State B|State C
+I-013,I,Prairie Grove,Jackpot slot,Very high,0.944,25.3,1.32,2025-04-27,,Aggregator,Aggregator Y,0.12,0.025,live,State A|State B|State C
+I-014,I,Russet Delta,Jackpot slot,Very high,0.938,25.3,1.8,2025-07-19,,Aggregator,Aggregator Y,0.12,0.025,live,State A|State B
+I-015,I,Marble Garden,Jackpot slot,Very high,0.936,25.3,1.68,2026-07-12,,Aggregator,Aggregator Y,0.12,0.025,live,State A|State B
+I-016,I,Saffron Vault,Jackpot slot,Very high,0.949,25.3,1.27,2026-04-17,,Aggregator,Aggregator Y,0.12,0.025,live,State A|State B|State C
+I-017,I,Tundra Comet,Jackpot slot,Very high,0.933,25.3,0.87,2025-05-02,,Aggregator,Aggregator Y,0.12,0.025,live,State A|State B|State C
+I-018,I,Kestrel Echo,Jackpot slot,Very high,0.927,25.3,1.25,2026-09-07,,Aggregator,Aggregator Y,0.12,0.025,live,State A|State B|State C
+I-019,I,Lumen Compass,Jackpot slot,Very high,0.947,25.3,1.52,2025-05-09,,Aggregator,Aggregator Y,0.12,0.025,live,State A|State B
+I-020,I,Silver Lighthouse,Jackpot slot,Very high,0.939,25.3,1.69,2026-02-24,,Aggregator,Aggregator Y,0.12,0.025,live,State A|State B
+K-001,K,Tundra Beacon,Slot,Medium,0.956,6.0,1.22,2025-08-14,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+K-002,K,Amber Nomad,Slot,Medium,0.942,6.0,1.53,2026-07-23,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+K-003,K,Juniper Rocket,Slot,Medium,0.948,6.0,0.72,2025-11-10,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+K-004,K,Harbor Harvest,Slot,Medium,0.936,6.0,1.83,2026-03-28,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+K-005,K,Umber Vault,Slot,Medium,0.936,6.0,1.32,2025-07-31,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+K-006,K,Lumen Atlas,Slot,Medium,0.955,6.0,0.81,2025-12-13,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+K-007,K,Midnight Garden,Slot,Very high,0.936,22.0,2.01,2025-08-28,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+K-008,K,Kestrel Atlas,Slot,Medium,0.944,6.0,1.43,2025-07-15,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+K-009,K,Paper Compass,Slot,Low,0.943,3.0,0.83,2026-04-13,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+K-010,K,Silver Rocket,Slot,Very high,0.946,22.0,1.24,2026-02-16,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+K-011,K,Nimbus Delta,Slot,Medium,0.941,6.0,0.82,2025-09-06,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+K-012,K,Thunder Lighthouse,Slot,Medium,0.956,6.0,1.54,2025-07-12,,Aggregator,Aggregator Y,0.11,0.025,live,State A
+K-013,K,Onyx Quarry,Slot,Very high,0.959,22.0,1.9,2026-06-25,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+K-014,K,Velvet Quarry,Slot,Medium,0.943,6.0,1.81,2025-08-15,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+K-015,K,Cobalt Quarry,Slot,Medium,0.947,6.0,1.72,2026-04-03,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+K-016,K,Crimson Relay,Slot,High,0.943,12.0,1.35,2025-11-29,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+K-017,K,Midnight Canyon,Slot,Medium,0.957,6.0,1.02,2026-09-07,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+K-018,K,Granite Lantern,Slot,Medium,0.938,6.0,1.22,2025-07-19,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+K-019,K,Midnight Quarry,Slot,Medium,0.957,6.0,1.54,2025-10-20,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+K-020,K,Lumen Orchard,Slot,Medium,0.947,6.0,1.05,2025-07-26,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+K-021,K,Onyx Compass,Slot,High,0.944,12.0,1.84,2026-06-23,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+K-022,K,Tundra Island,Slot,High,0.941,12.0,1.28,2025-09-18,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+K-023,K,Harbor Lantern,Table,Low,0.992,1.1,12.17,2025-12-17,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+K-024,K,Umber Parade,Table,Low,0.982,1.1,12.92,2026-03-04,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+K-025,K,Granite Kiln,Table,Low,0.987,1.1,6.91,2025-09-18,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+K-026,K,Silver Grove,Table,Low,0.984,1.1,7.1,2025-12-27,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+K-027,K,Marble Meadow,Table,Low,0.989,1.1,9.27,2025-09-17,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+K-028,K,Prairie Comet,Table,Low,0.973,1.1,12.89,2025-07-14,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+K-029,K,Nimbus Compass,Table,Low,0.985,1.1,10.22,2025-09-23,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+K-030,K,Quartz Fjord,Table,Low,0.99,1.1,6.21,2025-07-25,,Aggregator,Aggregator Y,0.11,0.025,live,State A|State B
+J-001,J,Onyx Voyage,Slot,Medium,0.955,6.0,0.97,2026-01-27,,Direct,,0.12,0.0,live,State A|State B|State C
+J-002,J,Marble Compass,Slot,Very high,0.954,22.0,1.38,2026-06-06,,Direct,,0.12,0.0,live,State A|State B|State C
+J-003,J,Prairie Summit,Slot,High,0.937,12.0,1.32,2026-02-12,,Direct,,0.12,0.0,live,State A|State B|State C
+J-004,J,Indigo Echo,Slot,Very high,0.959,22.0,1.23,2026-01-12,,Direct,,0.12,0.0,live,State A|State B|State C
+J-005,J,Tundra Tide,Slot,High,0.942,12.0,1.62,2026-01-12,,Direct,,0.12,0.0,live,State A|State B|State C
+J-006,J,Cobalt Tide,Slot,High,0.941,12.0,1.14,2026-03-18,,Direct,,0.12,0.0,live,State A|State B|State C
+J-007,J,Midnight Wharf,Slot,High,0.962,12.0,1.11,2026-02-06,,Direct,,0.12,0.0,live,State A|State C
+J-008,J,Willow Compass,Slot,Very high,0.948,22.0,1.47,2026-01-12,,Direct,,0.12,0.0,live,State A|State B|State C
+J-009,J,Tundra Jetty,Slot,High,0.94,12.0,1.2,2026-01-12,,Direct,,0.12,0.0,live,State A|State B|State C
+J-010,J,Marble Beacon,Slot,Low,0.95,3.0,1.64,2026-01-12,,Direct,,0.12,0.0,live,State A|State B|State C
+J-011,J,Willow Island,Slot,High,0.936,12.0,1.09,2026-09-13,,Direct,,0.12,0.0,live,State A|State B
+J-012,J,Crimson Harvest,Slot,Very high,0.955,22.0,1.54,2026-01-12,,Direct,,0.12,0.0,live,State A|State B|State C
+J-013,J,Umber Kiln,Slot,High,0.942,12.0,1.44,2026-01-12,,Direct,,0.12,0.0,live,State A|State B|State C
+J-014,J,Tundra Lantern,Slot,High,0.942,12.0,1.42,2026-01-12,,Direct,,0.12,0.0,live,State A|State B|State C
+J-015,J,Marble Relay,Slot,Very high,0.945,22.0,1.08,2026-01-12,,Direct,,0.12,0.0,live,State A|State B|State C
+J-016,J,Basalt Meadow,Slot,Very high,0.96,22.0,1.65,2026-04-07,,Direct,,0.12,0.0,live,State A|State B|State C
+J-017,J,Midnight Delta,Slot,High,0.95,12.0,1.92,2026-03-14,,Direct,,0.12,0.0,live,State A|State C
+J-018,J,Amber Meadow,Slot,Medium,0.941,6.0,1.13,2026-01-12,,Direct,,0.12,0.0,live,State A|State B
+J-019,J,Harbor Quarry,Slot,Medium,0.938,6.0,1.51,2026-01-12,,Direct,,0.12,0.0,live,State A|State B|State C
+J-020,J,Dune Wharf,Slot,Medium,0.961,6.0,0.82,2026-02-18,,Direct,,0.12,0.0,live,State A|State B|State C
+J-021,J,Velvet Canyon,Slot,Very high,0.941,22.0,1.22,2026-06-05,,Direct,,0.12,0.0,live,State A|State B|State C
+J-022,J,Marble Jetty,Slot,Very high,0.945,22.0,1.64,2026-02-24,,Direct,,0.12,0.0,live,State A|State B|State C
+J-023,J,Saffron Wharf,Slot,Medium,0.949,6.0,1.2,2026-02-16,,Direct,,0.12,0.0,live,State A|State B|State C
+J-024,J,Velvet Compass,Slot,Low,0.939,3.0,1.0,2026-09-19,,Direct,,0.12,0.0,live,State A|State B|State C
+J-025,J,Prairie Relay,Slot,Medium,0.95,6.0,0.79,2026-09-01,,Direct,,0.12,0.0,live,State A|State B|State C
+J-026,J,Umber Wharf,Slot,Medium,0.935,6.0,0.9,2026-02-08,,Direct,,0.12,0.0,live,State A|State B|State C
+J-027,J,Willow Meadow,Slot,High,0.957,12.0,1.35,2026-06-26,,Direct,,0.12,0.0,live,State A|State B
+J-028,J,Paper Fjord,Slot,Very high,0.949,22.0,1.39,2026-01-12,,Direct,,0.12,0.0,live,State A|State B|State C
+J-029,J,Ember Jetty,Slot,Very high,0.957,22.0,0.92,2026-03-20,,Direct,,0.12,0.0,live,State A|State B|State C
+J-030,J,Dune Harvest,Slot,High,0.944,12.0,0.88,2026-01-12,,Direct,,0.12,0.0,live,State A|State B|State C
+J-031,J,Frost Tide,Slot,Medium,0.96,6.0,0.93,2026-01-12,,Direct,,0.12,0.0,live,State A|State B|State C
+J-032,J,Saffron Comet,Slot,High,0.943,12.0,1.85,2026-01-12,,Direct,,0.12,0.0,live,State A|State B|State C
+J-033,J,Granite Summit,Slot,Very high,0.957,22.0,1.53,2026-01-12,,Direct,,0.12,0.0,live,State A|State B|State C
+J-034,J,Basalt Orchard,Slot,High,0.941,12.0,1.63,2026-07-21,,Direct,,0.12,0.0,live,State A|State B|State C
+J-035,J,Harbor Island,Slot,Low,0.956,3.0,1.88,2026-01-12,,Direct,,0.12,0.0,live,State A|State B|State C
+J-036,J,Paper Orchard,Slot,High,0.943,12.0,1.67,2026-07-23,,Direct,,0.12,0.0,live,State A|State B|State C
+J-037,J,Russet Jetty,Slot,Medium,0.946,6.0,0.97,2026-06-12,,Direct,,0.12,0.0,live,State A|State B|State C
+J-038,J,Saffron Tide,Slot,Very high,0.937,22.0,0.84,2026-01-12,,Direct,,0.12,0.0,live,State A|State B|State C
+J-039,J,Saffron Garden,Slot,Medium,0.952,6.0,1.08,2026-01-12,,Direct,,0.12,0.0,live,State A|State B|State C
+J-040,J,Nimbus Lantern,Slot,Very high,0.947,22.0,1.07,2026-07-20,,Direct,,0.12,0.0,live,State A|State B|State C
+J-041,J,Granite Comet,Slot,Low,0.953,3.0,1.12,2026-06-16,,Direct,,0.12,0.0,live,State A|State B|State C
+J-042,J,Granite Parade,Slot,High,0.947,12.0,1.23,2026-01-12,,Direct,,0.12,0.0,live,State A|State B|State C
+J-043,J,Indigo Canyon,Slot,High,0.94,12.0,1.53,2026-05-07,,Direct,,0.12,0.0,live,State A|State B|State C
+J-044,J,Prairie Rocket,Slot,Very high,0.955,22.0,1.11,2026-01-21,,Direct,,0.12,0.0,live,State A|State B|State C
+J-045,J,Saffron Compass,Slot,Medium,0.938,6.0,1.13,2026-03-25,,Direct,,0.12,0.0,live,State A|State B
+L-001,L,Thunder Grove,Slot,Medium,0.95,6.0,1.09,2026-05-28,,Aggregator,Aggregator X,0.11,0.03,live,State A|State C
+L-002,L,Paper Lantern,Slot,Medium,0.936,6.0,1.2,2026-03-09,,Aggregator,Aggregator X,0.11,0.03,live,State A|State C
+L-003,L,Silver Wharf,Slot,Medium,0.953,6.0,1.37,2026-03-09,,Aggregator,Aggregator X,0.11,0.03,live,State A|State C
+L-004,L,Juniper Vault,Slot,High,0.953,12.0,1.21,2026-03-09,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+L-005,L,Umber Lighthouse,Slot,Medium,0.939,6.0,1.56,2026-03-09,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+L-006,L,Frost Vault,Slot,Medium,0.938,6.0,0.94,2026-04-21,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+L-007,L,Harbor Garden,Slot,Low,0.936,3.0,2.32,2026-06-19,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+L-008,L,Zephyr Beacon,Slot,Medium,0.94,6.0,1.01,2026-05-25,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B
+L-009,L,Marble Tide,Slot,High,0.954,12.0,1.25,2026-05-10,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+L-010,L,Frost Orchard,Slot,Low,0.937,3.0,1.5,2026-05-17,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B
+L-011,L,Dune Rocket,Slot,Low,0.954,3.0,1.58,2026-03-28,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+L-012,L,Umber Quarry,Slot,Medium,0.962,6.0,2.07,2026-03-30,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+L-013,L,Dune Comet,Slot,Medium,0.935,6.0,1.51,2026-03-09,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+L-014,L,Copper Orchard,Slot,Low,0.937,3.0,1.87,2026-03-09,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+L-015,L,Saffron Atlas,Slot,Medium,0.954,6.0,1.48,2026-08-05,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+L-016,L,Thunder Quarry,Slot,Very high,0.96,22.0,1.48,2026-08-06,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+L-017,L,Granite Delta,Slot,Low,0.944,3.0,2.05,2026-09-14,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+L-018,L,Kestrel Summit,Slot,Medium,0.944,6.0,1.54,2026-03-09,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+L-019,L,Amber Island,Slot,Low,0.957,3.0,1.39,2026-07-24,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+L-020,L,Dune Parade,Slot,Low,0.939,3.0,1.43,2026-03-09,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+L-021,L,Harbor Kiln,Slot,Medium,0.959,6.0,1.07,2026-03-09,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B
+L-022,L,Indigo Kiln,Slot,High,0.959,12.0,0.8,2026-03-09,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+L-023,L,Marble Island,Slot,Medium,0.936,6.0,1.05,2026-04-01,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+L-024,L,Cobalt Echo,Slot,Low,0.948,3.0,0.88,2026-03-09,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+L-025,L,Umber Voyage,Slot,Very high,0.939,22.0,0.9,2026-08-06,,Aggregator,Aggregator X,0.11,0.03,live,State A|State B|State C
+M-001,M,Marble Quarry,Live dealer,Low,0.98,1.4,14.69,2026-06-08,,Direct,,0.14,0.0,live,State A|State B
+M-002,M,Ember Fjord,Live dealer,Low,0.985,1.4,12.38,2026-06-28,,Direct,,0.14,0.0,live,State A|State B
+M-003,M,Marble Nomad,Live dealer,Low,0.986,1.4,27.97,2026-06-08,,Direct,,0.14,0.0,live,State A|State B
+M-004,M,Willow Rocket,Live dealer,Low,0.982,1.4,13.8,2026-06-08,,Direct,,0.14,0.0,live,State A|State B
+M-005,M,Onyx Nomad,Live dealer,Low,0.99,1.4,18.66,2026-07-09,,Direct,,0.14,0.0,live,State A|State B
+M-006,M,Granite Atlas,Live dealer,Low,0.984,1.4,19.89,2026-06-08,,Direct,,0.14,0.0,live,State A|State B
+M-007,M,Zephyr Summit,Live dealer,Low,0.979,1.4,12.0,2026-06-08,,Direct,,0.14,0.0,live,State A|State B
+M-008,M,Cobalt Canyon,Live dealer,Low,0.98,1.4,18.06,2026-06-08,,Direct,,0.14,0.0,live,State A|State B
+M-009,M,Ember Lighthouse,Live dealer,Low,0.984,1.4,21.33,2026-09-13,,Direct,,0.14,0.0,live,State A|State B
+M-010,M,Silver Orchard,Live dealer,Low,0.975,1.4,24.14,2026-06-08,,Direct,,0.14,0.0,live,State A
+M-011,M,Dune Vault,Live dealer,Low,0.985,1.4,20.97,2026-08-02,,Direct,,0.14,0.0,live,State A|State B
+M-012,M,Midnight Jetty,Live dealer,Low,0.98,1.4,11.39,2026-06-08,,Direct,,0.14,0.0,live,State A|State B
+M-013,M,Lumen Echo,Live dealer,Low,0.982,1.4,18.68,2026-08-05,,Direct,,0.14,0.0,live,State A|State B
+M-014,M,Prairie Wharf,Live dealer,Low,0.975,1.4,26.79,2026-07-26,,Direct,,0.14,0.0,live,State A|State B
+M-015,M,Onyx Garden,Live dealer,Low,0.983,1.4,12.43,2026-06-08,,Direct,,0.14,0.0,live,State A|State B
+N-001,N,Paper Echo,Slot,High,0.961,12.0,1.2,,,Aggregator,Aggregator Y,0.11,0.025,in_certification,State A|State B
+N-002,N,Velvet Delta,Slot,High,0.952,12.0,1.52,,,Aggregator,Aggregator Y,0.11,0.025,in_certification,State A|State B
+N-003,N,Nimbus Parade,Slot,Very high,0.959,22.0,1.06,,,Aggregator,Aggregator Y,0.11,0.025,in_certification,State A|State B
+N-004,N,Zephyr Tide,Slot,Low,0.949,3.0,1.18,,,Aggregator,Aggregator Y,0.11,0.025,in_certification,State A|State B
+N-005,N,Nimbus Summit,Slot,High,0.937,12.0,1.91,,,Aggregator,Aggregator Y,0.11,0.025,in_certification,State A|State B
+N-006,N,Dune Meadow,Slot,Low,0.949,3.0,0.99,,,Aggregator,Aggregator Y,0.11,0.025,in_certification,State A|State B
+N-007,N,Frost Quarry,Slot,Very high,0.942,22.0,1.71,,,Aggregator,Aggregator Y,0.11,0.025,in_certification,State A|State B
+N-008,N,Nimbus Jetty,Slot,Low,0.951,3.0,1.32,,,Aggregator,Aggregator Y,0.11,0.025,in_certification,State A|State B
+N-009,N,Basalt Beacon,Slot,Medium,0.959,6.0,1.16,,,Aggregator,Aggregator Y,0.11,0.025,in_certification,State A|State B
+N-010,N,Umber Yard,Slot,Medium,0.957,6.0,0.86,,,Aggregator,Aggregator Y,0.11,0.025,in_certification,State A|State B
+N-011,N,Tundra Atlas,Slot,Low,0.962,3.0,1.17,,,Aggregator,Aggregator Y,0.11,0.025,in_certification,State A|State B
+N-012,N,Amber Atlas,Slot,High,0.947,12.0,1.06,,,Aggregator,Aggregator Y,0.11,0.025,in_certification,State A|State B
+N-013,N,Lumen Island,Slot,High,0.956,12.0,0.85,,,Aggregator,Aggregator Y,0.11,0.025,in_certification,State A|State B
+N-014,N,Zephyr Voyage,Slot,Medium,0.947,6.0,1.45,,,Aggregator,Aggregator Y,0.11,0.025,in_certification,State A|State B
+N-015,N,Umber Meadow,Slot,High,0.96,12.0,1.38,,,Aggregator,Aggregator Y,0.11,0.025,in_certification,State A|State B
+N-016,N,Kestrel Wharf,Slot,High,0.95,12.0,1.49,,,Aggregator,Aggregator Y,0.11,0.025,in_certification,State A|State B
+N-017,N,Zephyr Grove,Slot,Medium,0.951,6.0,1.24,,,Aggregator,Aggregator Y,0.11,0.025,in_certification,State A|State B
+N-018,N,Thunder Meadow,Slot,Medium,0.935,6.0,1.21,,,Aggregator,Aggregator Y,0.11,0.025,in_certification,State A|State B
+N-019,N,Amber Relay,Slot,Medium,0.957,6.0,1.37,,,Aggregator,Aggregator Y,0.11,0.025,in_certification,State A|State B
+N-020,N,Dune Voyage,Slot,Very high,0.96,22.0,1.28,,,Aggregator,Aggregator Y,0.11,0.025,in_certification,State A|State B
+N-021,N,Midnight Fjord,Table,Low,0.985,1.1,9.23,,,Aggregator,Aggregator Y,0.11,0.025,in_certification,State A|State B
+N-022,N,Russet Lantern,Table,Low,0.984,1.1,8.2,,,Aggregator,Aggregator Y,0.11,0.025,in_certification,State A|State B
+N-023,N,Crimson Orchard,Table,Low,0.974,1.1,8.92,,,Aggregator,Aggregator Y,0.11,0.025,in_certification,State A|State B
+N-024,N,Amber Echo,Table,Low,0.989,1.1,10.78,,,Aggregator,Aggregator Y,0.11,0.025,in_certification,State A|State B
+N-025,N,Copper Echo,Table,Low,0.98,1.1,8.5,,,Aggregator,Aggregator Y,0.11,0.025,in_certification,State A|State B
+Q-001,Q,Quartz Comet,Slot,Medium,0.944,6.0,0.89,,,Direct,,0.12,0.0,in_certification,
+Q-002,Q,Crimson Voyage,Slot,Medium,0.958,6.0,1.78,,,Direct,,0.12,0.0,in_certification,
+Q-003,Q,Basalt Compass,Slot,High,0.96,12.0,0.73,,,Direct,,0.12,0.0,in_certification,
+Q-004,Q,Indigo Voyage,Slot,Very high,0.958,22.0,1.64,,,Direct,,0.12,0.0,in_certification,
+Q-005,Q,Crimson Echo,Slot,High,0.947,12.0,1.16,,,Direct,,0.12,0.0,in_certification,
+Q-006,Q,Ember Canyon,Slot,Very high,0.956,22.0,1.18,,,Direct,,0.12,0.0,in_certification,
+Q-007,Q,Lumen Garden,Slot,Very high,0.946,22.0,1.89,,,Direct,,0.12,0.0,in_certification,
+Q-008,Q,Basalt Jetty,Slot,Very high,0.937,22.0,1.07,,,Direct,,0.12,0.0,in_certification,
+Q-009,Q,Russet Comet,Slot,Very high,0.961,22.0,1.16,,,Direct,,0.12,0.0,in_certification,
+Q-010,Q,Amber Parade,Slot,Medium,0.96,6.0,1.26,,,Direct,,0.12,0.0,in_certification,
+Q-011,Q,Saffron Fjord,Slot,Medium,0.953,6.0,0.9,,,Direct,,0.12,0.0,in_certification,
+Q-012,Q,Amber Comet,Slot,High,0.954,12.0,1.73,,,Direct,,0.12,0.0,in_certification,
+Q-013,Q,Kestrel Quarry,Slot,Very high,0.953,22.0,1.17,,,Direct,,0.12,0.0,in_certification,
+Q-014,Q,Zephyr Meadow,Slot,High,0.937,12.0,1.62,,,Direct,,0.12,0.0,in_certification,
+Q-015,Q,Harbor Lighthouse,Slot,High,0.942,12.0,1.38,,,Direct,,0.12,0.0,in_certification,
+Q-016,Q,Tundra Fjord,Slot,Low,0.955,3.0,0.91,,,Direct,,0.12,0.0,in_certification,
+Q-017,Q,Quartz Grove,Slot,High,0.937,12.0,1.37,,,Direct,,0.12,0.0,in_certification,
+Q-018,Q,Onyx Comet,Slot,High,0.941,12.0,1.47,,,Direct,,0.12,0.0,in_certification,
+Q-019,Q,Paper Kiln,Slot,High,0.943,12.0,1.02,,,Direct,,0.12,0.0,in_certification,
+Q-020,Q,Zephyr Comet,Slot,High,0.95,12.0,1.4,,,Direct,,0.12,0.0,in_certification,
+Q-021,Q,Amber Fjord,Slot,High,0.948,12.0,1.77,,,Direct,,0.12,0.0,in_certification,
+Q-022,Q,Russet Kiln,Slot,Very high,0.952,22.0,1.27,,,Direct,,0.12,0.0,in_certification,
+Q-023,Q,Harbor Summit,Slot,Low,0.95,3.0,1.24,,,Direct,,0.12,0.0,in_certification,
+Q-024,Q,Russet Beacon,Slot,Low,0.947,3.0,1.29,,,Direct,,0.12,0.0,in_certification,
+Q-025,Q,Copper Nomad,Slot,High,0.958,12.0,1.23,,,Direct,,0.12,0.0,in_certification,
+Q-026,Q,Russet Yard,Slot,Very high,0.957,22.0,1.46,,,Direct,,0.12,0.0,in_certification,
+Q-027,Q,Copper Rocket,Slot,High,0.952,12.0,1.2,,,Direct,,0.12,0.0,in_certification,
+Q-028,Q,Velvet Lighthouse,Slot,Very high,0.961,22.0,0.85,,,Direct,,0.12,0.0,in_certification,
+Q-029,Q,Quartz Rocket,Slot,Very high,0.95,22.0,1.78,,,Direct,,0.12,0.0,in_certification,
+Q-030,Q,Velvet Voyage,Slot,Medium,0.955,6.0,1.33,,,Direct,,0.12,0.0,in_certification,
+Q-031,Q,Tundra Grove,Table,Low,0.977,1.1,9.82,,,Direct,,0.12,0.0,in_certification,
+Q-032,Q,Amber Canyon,Table,Low,0.989,1.1,9.01,,,Direct,,0.12,0.0,in_certification,
+Q-033,Q,Willow Jetty,Table,Low,0.977,1.1,9.74,,,Direct,,0.12,0.0,in_certification,
+Q-034,Q,Ember Yard,Table,Low,0.983,1.1,5.83,,,Direct,,0.12,0.0,in_certification,
+Q-035,Q,Ember Voyage,Jackpot slot,Very high,0.93,25.3,2.29,,,Direct,,0.12,0.0,in_certification,
+Q-036,Q,Copper Beacon,Jackpot slot,Very high,0.944,25.3,1.43,,,Direct,,0.12,0.0,in_certification,
+Q-037,Q,Granite Tide,Jackpot slot,Very high,0.939,25.3,1.25,,,Direct,,0.12,0.0,in_certification,
+Q-038,Q,Tundra Lighthouse,Jackpot slot,Very high,0.944,25.3,2.7,,,Direct,,0.12,0.0,in_certification,
+Q-039,Q,Saffron Canyon,Jackpot slot,Very high,0.943,25.3,0.86,,,Direct,,0.12,0.0,in_certification,
+Q-040,Q,Onyx Carousel,Jackpot slot,Very high,0.948,25.3,1.18,,,Direct,,0.12,0.0,in_certification,
+HD-001,H,Indigo Meadow,Slot,High,0.944,12.0,1.38,2026-04-01,,Direct,,0.11,0.0,live,State A|State B|State C
+HD-002,H,Russet Voyage,Slot,Very high,0.949,22.0,1.41,2026-04-01,,Direct,,0.11,0.0,live,State A|State B|State C
+HD-003,H,Juniper Yard,Slot,Very high,0.947,22.0,1.52,2026-04-01,,Direct,,0.11,0.0,live,State A|State B|State C
+HD-004,H,Cobalt Garden,Slot,Low,0.962,3.0,1.05,2026-04-01,,Direct,,0.11,0.0,live,State A|State B|State C
+HD-005,H,Cobalt Vault,Slot,Very high,0.951,22.0,1.02,2026-04-01,,Direct,,0.11,0.0,live,State A|State B|State C
+HD-006,H,Midnight Beacon,Slot,High,0.942,12.0,1.27,2026-04-01,,Direct,,0.11,0.0,live,State A|State B
+HD-007,H,Marble Carousel,Slot,High,0.944,12.0,1.02,2026-04-01,,Direct,,0.11,0.0,live,State A|State B|State C
+HD-008,H,Lumen Parade,Slot,Medium,0.945,6.0,1.63,2026-04-01,,Direct,,0.11,0.0,live,State A|State B|State C
+HD-009,H,Crimson Atlas,Slot,Very high,0.958,22.0,1.33,2026-04-01,,Direct,,0.11,0.0,live,State A|State B|State C
+HD-010,H,Juniper Relay,Slot,Medium,0.96,6.0,1.04,2026-04-01,,Direct,,0.11,0.0,live,State A|State B|State C
+HD-011,H,Quartz Kiln,Slot,Very high,0.937,22.0,1.23,2026-04-01,,Direct,,0.11,0.0,live,State A|State B|State C
+HD-012,H,Lumen Delta,Slot,Very high,0.959,22.0,1.02,2026-04-01,,Direct,,0.11,0.0,live,State A|State B|State C
+HD-013,H,Juniper Orchard,Slot,Medium,0.938,6.0,1.44,2026-04-01,,Direct,,0.11,0.0,live,State A|State B|State C
+HD-014,H,Harbor Orchard,Slot,Very high,0.937,22.0,1.04,2026-04-01,,Direct,,0.11,0.0,live,State A|State B|State C
+HD-015,H,Thunder Jetty,Slot,High,0.946,12.0,1.36,2026-04-01,,Direct,,0.11,0.0,live,State A|State B|State C
+HD-016,H,Onyx Wharf,Slot,Low,0.936,3.0,1.33,2026-04-01,,Direct,,0.11,0.0,live,State A|State B|State C
+HD-017,H,Kestrel Compass,Slot,High,0.959,12.0,1.11,2026-04-01,,Direct,,0.11,0.0,live,State A|State B|State C
+HD-018,H,Paper Quarry,Slot,Medium,0.937,6.0,1.31,2026-04-01,,Direct,,0.11,0.0,live,State A|State B|State C
+HD-019,H,Harbor Vault,Slot,High,0.945,12.0,1.09,2026-04-01,,Direct,,0.11,0.0,live,State A|State B|State C
+HD-020,H,Amber Lantern,Slot,High,0.961,12.0,1.39,2026-04-01,,Direct,,0.11,0.0,live,State A|State B|State C
+HD-021,H,Thunder Wharf,Slot,High,0.962,12.0,1.95,2026-04-01,,Direct,,0.11,0.0,live,State A|State B|State C
+HD-022,H,Amber Delta,Slot,Very high,0.949,22.0,1.28,2026-04-01,,Direct,,0.11,0.0,live,State A|State B|State C
+HD-023,H,Paper Nomad,Slot,Very high,0.958,22.0,1.3,2026-04-01,,Direct,,0.11,0.0,live,State A|State B|State C
+HD-024,H,Ember Carousel,Slot,High,0.946,12.0,1.86,2026-04-01,,Direct,,0.11,0.0,live,State A|State B|State C
+HD-025,H,Indigo Fjord,Slot,High,0.951,12.0,1.41,2026-04-01,,Direct,,0.11,0.0,live,State A|State C
+HD-026,H,Paper Atlas,Slot,High,0.961,12.0,0.69,2026-04-01,,Direct,,0.11,0.0,live,State A|State B|State C
+HD-027,H,Onyx Canyon,Slot,High,0.947,12.0,1.43,2026-04-01,,Direct,,0.11,0.0,live,State A|State B|State C
+HD-028,H,Copper Canyon,Slot,High,0.94,12.0,1.46,2026-04-01,,Direct,,0.11,0.0,live,State A|State B|State C
+HD-029,H,Onyx Summit,Slot,Low,0.937,3.0,1.57,2026-04-01,,Direct,,0.11,0.0,live,State A|State B|State C
+HD-030,H,Lumen Voyage,Slot,Medium,0.94,6.0,1.7,2026-04-01,,Direct,,0.11,0.0,live,State A|State B|State C
+HD-031,H,Onyx Jetty,Slot,Medium,0.947,6.0,1.49,2026-04-01,,Direct,,0.11,0.0,live,State A|State B|State C
+HD-032,H,Quartz Relay,Slot,Low,0.94,3.0,1.12,2026-04-01,,Direct,,0.11,0.0,live,State A|State C
+HD-033,H,Basalt Voyage,Slot,Very high,0.937,22.0,1.11,2026-04-01,,Direct,,0.11,0.0,live,State A|State B|State C
+HD-034,H,Willow Harvest,Slot,High,0.947,12.0,1.25,2026-04-01,,Direct,,0.11,0.0,live,State A|State B
+HD-035,H,Onyx Meadow,Slot,Very high,0.936,22.0,1.27,2026-04-01,,Direct,,0.11,0.0,live,State A|State B|State C
+HD-036,H,Thunder Vault,Slot,Medium,0.946,6.0,1.39,2026-04-01,,Direct,,0.11,0.0,live,State A|State B|State C
+HD-037,H,Prairie Vault,Slot,Medium,0.945,6.0,0.72,2026-04-01,,Direct,,0.11,0.0,live,State A|State B|State C
+HD-038,H,Russet Echo,Slot,High,0.958,12.0,1.24,2026-04-01,,Direct,,0.11,0.0,live,State A|State B|State C
+HD-039,H,Willow Fjord,Slot,Low,0.955,3.0,1.81,2026-04-01,,Direct,,0.11,0.0,live,State A|State B
+HD-040,H,Frost Voyage,Slot,Medium,0.94,6.0,1.47,2026-04-01,,Direct,,0.11,0.0,live,State A|State B|State C

@@ -1,0 +1,9 @@
+promo_id,provider_id,game_id,states,start_date,end_date,mechanic,spins_per_player,spin_value_usd,players_targeted,has_holdout,players_reached,cost_usd
+PR01,A,A-004,State A,2025-11-21,2025-11-30,Free spins,10,0.2,15000,False,9969,11484.0
+PR02,J,J-002,State A|State B,2026-01-16,2026-01-29,Free spins,25,0.2,22000,False,12835,36965.0
+PR03,C,C-019,State B,2026-02-13,2026-02-19,Free spins,10,0.5,8000,False,5567,16033.0
+PR04,I,I-003,State A|State B|State C,2026-03-20,2026-03-29,Free spins,15,0.4,26000,False,17238,59575.0
+PR05,L,L-001,State A,2026-04-10,2026-04-23,Free spins,20,0.25,12000,False,7387,21275.0
+PR06,B,B-031,State A|State B,2026-06-08,2026-06-21,Free spins,20,0.5,40000,True,22573,136044.0
+PR07,D,D-005,State A,2026-07-24,2026-07-30,Live-table cashback,0,0.0,9000,False,5052,5820.0
+PR08,F,F-020,State B,2026-09-04,2026-09-13,Free spins,10,0.3,10000,False,7158,12369.0

@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.tmp/
+.ipynb_checkpoints/
+.env
+data/raw/
+DECISIONS.md
+NOTES_candidature_entretien.md

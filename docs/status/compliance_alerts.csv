@@ -1,0 +1,12 @@
+severity,rule,entity,state,detail,action
+P1,Live without approval,L-001,State B,"live since 2026-06-15, approval status 'pending' (submitted 2026-05-15)","Disable the game in this state today (kill switch), confirm with Compliance, report as required"
+P1,Live without approval,L-002,State B,"live since 2026-03-15, approval status 'pending' (submitted 2026-02-22)","Disable the game in this state today (kill switch), confirm with Compliance, report as required"
+P1,Live without approval,L-003,State B,"live since 2026-03-09, approval status 'pending' (submitted 2026-02-10)","Disable the game in this state today (kill switch), confirm with Compliance, report as required"
+P2,Supplier licence expiring,Provider C,State B,expires 2026-12-04 (21 days),Confirm renewal filing with the provider; plan disablement if not renewed in time
+P2,Supplier licence expiring,Provider G,State A,expires 2026-12-22 (39 days),Confirm renewal filing with the provider; plan disablement if not renewed in time
+P3,Missing documents,N-003,State C,missing: PAR sheet,Request from provider; submission cannot go out until complete
+P3,Missing documents,N-006,State C,missing: approved version hash,Request from provider; submission cannot go out until complete
+P3,Missing documents,N-010,State C,missing: PAR sheet,Request from provider; submission cannot go out until complete
+P3,Missing documents,N-015,State C,missing: RG messaging check,Request from provider; submission cannot go out until complete
+P3,Missing documents,N-019,State C,missing: rules/paytable,Request from provider; submission cannot go out until complete
+P3,Missing documents,N-022,State C,missing: approved version hash,Request from provider; submission cannot go out until complete

@@ -1,0 +1,8 @@
+case,first,second,order
+base,O,R,O > R > T > S > P
+elasticity x0.5,O,R,O > R > T > S > P
+elasticity x1.5,O,R,O > R > S > T > P
+effort x1.5 for direct,O,R,O > R > T > S > P
+time-to-launch +60 days,O,R,O > R > T > S > P
+GGR benchmark x0.7,O,R,O > R > T > S > P
+confidence = 1 for all,O,R,O > R > S > T > P

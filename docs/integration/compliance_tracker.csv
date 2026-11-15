@@ -1,0 +1,196 @@
+game_id,provider_id,state,lab,lab_submitted,cert_date,cert_ref,par_sheet,rules_paytable,version_hash,rg_messaging_check,documents_complete,certification_status,submitted,approval_status,approved,live_date,next_step
+N-001,N,State A,Independent test lab 2,2026-05-28,2026-06-19,CERT-N-001-A,True,True,True,True,True,certified,2026-06-20,approved,2026-07-01,,Schedule launch
+N-001,N,State B,Independent test lab 2,2026-05-28,2026-06-19,CERT-N-001-B,True,True,True,True,True,certified,2026-06-20,approved,2026-07-07,,Schedule launch
+N-001,N,State C,Independent test lab 2,2026-05-28,2026-06-19,CERT-N-001-C,True,True,True,True,True,certified,2026-06-22,pending,,,Follow up with state reviewer
+N-002,N,State A,Independent test lab 2,2026-06-07,2026-06-24,CERT-N-002-A,True,True,True,True,True,certified,2026-06-25,approved,2026-06-30,,Schedule launch
+N-002,N,State B,Independent test lab 2,2026-06-07,2026-06-24,CERT-N-002-B,True,True,True,True,True,certified,2026-06-29,approved,2026-07-11,,Schedule launch
+N-002,N,State C,Independent test lab 2,2026-06-07,2026-06-24,CERT-N-002-C,True,True,True,True,True,certified,2026-06-25,pending,,,Follow up with state reviewer
+N-003,N,State A,Independent test lab 2,2026-05-27,2026-06-19,CERT-N-003-A,False,True,True,True,False,certified,2026-06-23,approved,2026-07-08,,Schedule launch
+N-003,N,State B,Independent test lab 2,2026-05-27,2026-06-19,CERT-N-003-B,False,True,True,True,False,certified,2026-06-20,approved,2026-07-10,,Schedule launch
+N-003,N,State C,Independent test lab 2,2026-05-27,2026-06-19,CERT-N-003-C,False,True,True,True,False,certified,,not_submitted,,,"Complete package, submit to state"
+N-004,N,State A,Independent test lab 2,2026-06-13,2026-06-30,CERT-N-004-A,True,True,True,True,True,certified,2026-07-04,approved,2026-07-27,,Schedule launch
+N-004,N,State B,Independent test lab 2,2026-06-13,2026-06-30,CERT-N-004-B,True,True,True,True,True,certified,2026-07-05,approved,2026-08-01,,Schedule launch
+N-004,N,State C,Independent test lab 2,2026-06-13,2026-06-30,CERT-N-004-C,True,True,True,True,True,certified,2026-07-03,pending,,,Follow up with state reviewer
+N-005,N,State A,Independent test lab 2,2026-05-23,2026-06-22,CERT-N-005-A,True,True,True,True,True,certified,2026-06-23,approved,2026-07-08,,Schedule launch
+N-005,N,State B,Independent test lab 2,2026-05-23,2026-06-22,CERT-N-005-B,True,True,True,True,True,certified,2026-06-23,approved,2026-07-06,,Schedule launch
+N-005,N,State C,Independent test lab 2,2026-05-23,2026-06-22,CERT-N-005-C,True,True,True,True,True,certified,2026-06-27,pending,,,Follow up with state reviewer
+N-006,N,State A,Independent test lab 2,2026-05-30,2026-06-24,CERT-N-006-A,True,True,False,True,False,certified,2026-06-29,approved,2026-07-23,,Schedule launch
+N-006,N,State B,Independent test lab 2,2026-05-30,2026-06-24,CERT-N-006-B,True,True,False,True,False,certified,2026-06-25,approved,2026-07-16,,Schedule launch
+N-006,N,State C,Independent test lab 2,2026-05-30,2026-06-24,CERT-N-006-C,True,True,False,True,False,certified,,not_submitted,,,"Complete package, submit to state"
+N-007,N,State A,Independent test lab 2,2026-05-20,2026-06-28,CERT-N-007-A,True,True,True,True,True,certified,2026-07-02,approved,2026-07-15,,Schedule launch
+N-007,N,State B,Independent test lab 2,2026-05-20,2026-06-28,CERT-N-007-B,True,True,True,True,True,certified,2026-07-02,approved,2026-07-29,,Schedule launch
+N-007,N,State C,Independent test lab 2,2026-05-20,2026-06-28,CERT-N-007-C,True,True,True,True,True,certified,2026-07-03,pending,,,Follow up with state reviewer
+N-008,N,State A,Independent test lab 2,2026-06-13,2026-06-29,CERT-N-008-A,True,True,True,True,True,certified,2026-07-03,approved,2026-07-24,,Schedule launch
+N-008,N,State B,Independent test lab 2,2026-06-13,2026-06-29,CERT-N-008-B,True,True,True,True,True,certified,2026-07-01,approved,2026-07-12,,Schedule launch
+N-008,N,State C,Independent test lab 2,2026-06-13,2026-06-29,CERT-N-008-C,True,True,True,True,True,certified,2026-07-02,pending,,,Follow up with state reviewer
+N-009,N,State A,Independent test lab 2,2026-06-02,2026-06-30,CERT-N-009-A,True,True,True,True,True,certified,2026-07-04,approved,2026-07-20,,Schedule launch
+N-009,N,State B,Independent test lab 2,2026-06-02,2026-06-30,CERT-N-009-B,True,True,True,True,True,certified,2026-07-01,approved,2026-07-15,,Schedule launch
+N-009,N,State C,Independent test lab 2,2026-06-02,2026-06-30,CERT-N-009-C,True,True,True,True,True,certified,2026-07-01,pending,,,Follow up with state reviewer
+N-010,N,State A,Independent test lab 2,2026-06-06,2026-07-01,CERT-N-010-A,False,True,True,True,False,certified,2026-07-05,approved,2026-07-13,,Schedule launch
+N-010,N,State B,Independent test lab 2,2026-06-06,2026-07-01,CERT-N-010-B,False,True,True,True,False,certified,2026-07-02,approved,2026-07-15,,Schedule launch
+N-010,N,State C,Independent test lab 2,2026-06-06,2026-07-01,CERT-N-010-C,False,True,True,True,False,certified,,not_submitted,,,"Complete package, submit to state"
+N-011,N,State A,Independent test lab 2,2026-06-04,2026-06-24,CERT-N-011-A,True,True,True,True,True,certified,2026-06-25,approved,2026-07-16,,Schedule launch
+N-011,N,State B,Independent test lab 2,2026-06-04,2026-06-24,CERT-N-011-B,True,True,True,True,True,certified,2026-06-26,approved,2026-07-12,,Schedule launch
+N-011,N,State C,Independent test lab 2,2026-06-04,2026-06-24,CERT-N-011-C,True,True,True,True,True,certified,2026-06-29,pending,,,Follow up with state reviewer
+N-012,N,State A,Independent test lab 2,2026-06-13,2026-07-03,CERT-N-012-A,True,True,True,True,True,certified,2026-07-08,approved,2026-07-25,,Schedule launch
+N-012,N,State B,Independent test lab 2,2026-06-13,2026-07-03,CERT-N-012-B,True,True,True,True,True,certified,2026-07-04,approved,2026-07-28,,Schedule launch
+N-012,N,State C,Independent test lab 2,2026-06-13,2026-07-03,CERT-N-012-C,True,True,True,True,True,certified,2026-07-07,pending,,,Follow up with state reviewer
+N-013,N,State A,Independent test lab 2,2026-06-10,2026-06-30,CERT-N-013-A,True,True,True,True,True,certified,2026-07-02,approved,2026-07-13,,Schedule launch
+N-013,N,State B,Independent test lab 2,2026-06-10,2026-06-30,CERT-N-013-B,True,True,True,True,True,certified,2026-07-02,approved,2026-07-14,,Schedule launch
+N-013,N,State C,Independent test lab 2,2026-06-10,2026-06-30,CERT-N-013-C,True,True,True,True,True,certified,2026-07-05,pending,,,Follow up with state reviewer
+N-014,N,State A,Independent test lab 2,2026-06-09,2026-07-03,CERT-N-014-A,True,True,True,True,True,certified,2026-07-04,approved,2026-07-12,,Schedule launch
+N-014,N,State B,Independent test lab 2,2026-06-09,2026-07-03,CERT-N-014-B,True,True,True,True,True,certified,2026-07-08,approved,2026-07-30,,Schedule launch
+N-014,N,State C,Independent test lab 2,2026-06-09,2026-07-03,CERT-N-014-C,True,True,True,True,True,certified,2026-07-08,pending,,,Follow up with state reviewer
+N-015,N,State A,Independent test lab 2,2026-06-20,2026-07-07,CERT-N-015-A,True,True,True,False,False,certified,2026-07-11,approved,2026-08-02,,Schedule launch
+N-015,N,State B,Independent test lab 2,2026-06-20,2026-07-07,CERT-N-015-B,True,True,True,False,False,certified,2026-07-12,approved,2026-07-21,,Schedule launch
+N-015,N,State C,Independent test lab 2,2026-06-20,2026-07-07,CERT-N-015-C,True,True,True,False,False,certified,,not_submitted,,,"Complete package, submit to state"
+N-016,N,State A,Independent test lab 2,2026-05-28,2026-06-24,CERT-N-016-A,True,True,True,True,True,certified,2026-06-28,approved,2026-07-08,,Schedule launch
+N-016,N,State B,Independent test lab 2,2026-05-28,2026-06-24,CERT-N-016-B,True,True,True,True,True,certified,2026-06-27,approved,2026-07-12,,Schedule launch
+N-016,N,State C,Independent test lab 2,2026-05-28,2026-06-24,CERT-N-016-C,True,True,True,True,True,certified,2026-06-29,pending,,,Follow up with state reviewer
+N-017,N,State A,Independent test lab 2,2026-06-11,2026-07-06,CERT-N-017-A,True,True,True,True,True,certified,2026-07-08,approved,2026-07-17,,Schedule launch
+N-017,N,State B,Independent test lab 2,2026-06-11,2026-07-06,CERT-N-017-B,True,True,True,True,True,certified,2026-07-10,approved,2026-07-31,,Schedule launch
+N-017,N,State C,Independent test lab 2,2026-06-11,2026-07-06,CERT-N-017-C,True,True,True,True,True,certified,2026-07-07,pending,,,Follow up with state reviewer
+N-018,N,State A,Independent test lab 2,2026-06-05,2026-06-29,CERT-N-018-A,True,True,True,True,True,certified,2026-07-01,approved,2026-07-17,,Schedule launch
+N-018,N,State B,Independent test lab 2,2026-06-05,2026-06-29,CERT-N-018-B,True,True,True,True,True,certified,2026-07-02,approved,2026-07-25,,Schedule launch
+N-018,N,State C,Independent test lab 2,2026-06-05,2026-06-29,CERT-N-018-C,True,True,True,True,True,certified,2026-07-02,pending,,,Follow up with state reviewer
+N-019,N,State A,Independent test lab 2,2026-06-01,2026-06-21,CERT-N-019-A,True,False,True,True,False,certified,2026-06-25,approved,2026-07-11,,Schedule launch
+N-019,N,State B,Independent test lab 2,2026-06-01,2026-06-21,CERT-N-019-B,True,False,True,True,False,certified,2026-06-22,approved,2026-07-13,,Schedule launch
+N-019,N,State C,Independent test lab 2,2026-06-01,2026-06-21,CERT-N-019-C,True,False,True,True,False,certified,,not_submitted,,,"Complete package, submit to state"
+N-020,N,State A,Independent test lab 2,2026-06-03,2026-06-19,CERT-N-020-A,True,True,True,True,True,certified,2026-06-23,approved,2026-07-08,,Schedule launch
+N-020,N,State B,Independent test lab 2,2026-06-03,2026-06-19,CERT-N-020-B,True,True,True,True,True,certified,2026-06-20,approved,2026-07-01,,Schedule launch
+N-020,N,State C,Independent test lab 2,2026-06-03,2026-06-19,CERT-N-020-C,True,True,True,True,True,certified,2026-06-20,pending,,,Follow up with state reviewer
+N-021,N,State A,Independent test lab 2,2026-06-03,2026-06-24,CERT-N-021-A,True,True,True,True,True,certified,2026-06-29,approved,2026-07-10,,Schedule launch
+N-021,N,State B,Independent test lab 2,2026-06-03,2026-06-24,CERT-N-021-B,True,True,True,True,True,certified,2026-06-25,approved,2026-07-24,,Schedule launch
+N-021,N,State C,Independent test lab 2,2026-06-03,2026-06-24,CERT-N-021-C,True,True,True,True,True,certified,2026-06-27,pending,,,Follow up with state reviewer
+N-022,N,State A,Independent test lab 2,2026-05-21,2026-06-30,CERT-N-022-A,True,True,False,True,False,certified,2026-07-05,approved,2026-07-18,,Schedule launch
+N-022,N,State B,Independent test lab 2,2026-05-21,2026-06-30,CERT-N-022-B,True,True,False,True,False,certified,2026-07-01,approved,2026-07-12,,Schedule launch
+N-022,N,State C,Independent test lab 2,2026-05-21,2026-06-30,CERT-N-022-C,True,True,False,True,False,certified,,not_submitted,,,"Complete package, submit to state"
+N-023,N,State A,Independent test lab 2,2026-06-18,2026-07-05,CERT-N-023-A,True,True,True,True,True,certified,2026-07-07,approved,2026-07-19,,Schedule launch
+N-023,N,State B,Independent test lab 2,2026-06-18,2026-07-05,CERT-N-023-B,True,True,True,True,True,certified,2026-07-07,approved,2026-07-23,,Schedule launch
+N-023,N,State C,Independent test lab 2,2026-06-18,2026-07-05,CERT-N-023-C,True,True,True,True,True,certified,2026-07-08,pending,,,Follow up with state reviewer
+N-024,N,State A,Independent test lab 2,2026-06-09,2026-06-26,CERT-N-024-A,True,True,True,True,True,certified,2026-06-29,approved,2026-07-12,,Schedule launch
+N-024,N,State B,Independent test lab 2,2026-06-09,2026-06-26,CERT-N-024-B,True,True,True,True,True,certified,2026-06-29,approved,2026-07-31,,Schedule launch
+N-024,N,State C,Independent test lab 2,2026-06-09,2026-06-26,CERT-N-024-C,True,True,True,True,True,certified,2026-06-27,pending,,,Follow up with state reviewer
+N-025,N,State A,Independent test lab 2,2026-06-03,2026-06-26,CERT-N-025-A,True,True,True,True,True,certified,2026-06-29,approved,2026-07-12,,Schedule launch
+N-025,N,State B,Independent test lab 2,2026-06-03,2026-06-26,CERT-N-025-B,True,True,True,True,True,certified,2026-06-27,approved,2026-07-08,,Schedule launch
+N-025,N,State C,Independent test lab 2,2026-06-03,2026-06-26,CERT-N-025-C,True,True,True,True,True,certified,2026-06-28,pending,,,Follow up with state reviewer
+Q-001,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-001,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-001,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-002,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-002,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-002,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-003,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-003,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-003,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-004,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-004,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-004,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-005,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-005,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-005,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-006,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-006,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-006,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-007,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-007,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-007,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-008,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-008,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-008,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-009,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-009,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-009,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-010,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-010,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-010,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-011,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-011,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-011,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-012,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-012,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-012,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-013,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-013,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-013,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-014,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-014,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-014,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-015,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-015,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-015,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-016,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-016,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-016,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-017,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-017,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-017,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-018,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-018,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-018,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-019,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-019,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-019,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-020,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-020,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-020,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-021,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-021,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-021,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-022,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-022,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-022,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-023,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-023,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-023,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-024,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-024,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-024,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-025,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-025,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-025,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-026,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-026,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-026,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-027,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-027,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-027,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-028,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-028,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-028,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-029,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-029,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-029,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-030,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-030,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-030,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-031,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-031,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-031,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-032,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-032,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-032,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-033,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-033,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-033,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-034,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-034,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-034,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-035,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-035,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-035,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-036,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-036,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-036,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-037,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-037,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-037,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-038,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-038,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-038,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-039,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-039,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-039,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
+Q-040,Q,State A,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-040,Q,State B,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_submitted,,,Await provider documents
+Q-040,Q,State C,Independent test lab 1,,,,True,True,False,False,False,not yet submitted to lab,,not_licensed,,,Blocked: supplier licence pending
