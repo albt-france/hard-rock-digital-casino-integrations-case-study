@@ -10,11 +10,6 @@ Pennsylvania regulators; every catalogue, provider, pipeline and player figure i
 
 - **Report (8 pages):** [docs/Hard_Rock_Digital_Casino_Integrations_Case_Study.pdf](docs/Hard_Rock_Digital_Casino_Integrations_Case_Study.pdf)
 - **Interactive dashboard (one HTML file, works offline, 4 tabs, filters by state and provider):** [dashboard/casino_integrations.html](dashboard/casino_integrations.html)
-- **Integration dossier (Provider Q onboarding):** [PRD](docs/integration/PRD_provider_onboarding.md) ·
-  [15 user stories, Given/When/Then](docs/integration/user_stories.md) · [Jira backlog CSV](docs/integration/backlog.csv) ·
-  [API integration checklist](docs/integration/api_integration_checklist.md) ·
-  [compliance checklist](docs/integration/compliance_checklist.md) · [compliance tracker](docs/integration/compliance_tracker.csv)
-- **Generated every week:** [integration status report](docs/status/weekly_status_2026-11-13.md) · [compliance alerts](docs/status/compliance_alerts.md)
 
 ![Dashboard, content performance tab](docs/img/dashboard_1.png)
 
